@@ -17,20 +17,21 @@ This is the list of books I'm currently reading or planning on reading in the ne
 * David J.C. MacKay - **Information Theory, Inference, and Learning Algorithms (2003)**
 * VA - **The Next Digital Decade: Essays on the Future of the Internet (2010)**
 
-## Tutorials
+### Tutorials
 
 * Jayneil Dalal, Sohil Patel - **Instant OpenCV Starter**
 * Jason Cannon - **Bash Command Line Pro Tips**
 
-## Productivity
+### Productivity
 
 * David Allen - **Getting Things Done: The Art of Stress-free Productivity**
 
-## Novels
+### Novels
 
 * George Orwell - **1984**
 * Richard Stephenson - **Collapse (New America Book 1)**
 * Stephen G. Mitchell - **2076: A Revolutionary Tale: All Systems Have Failed**
-## Miscellaneous
+
+### Miscellaneous
 
 * Dan Riley - **Generation Atheist**
