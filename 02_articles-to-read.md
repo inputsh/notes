@@ -132,3 +132,5 @@ Aaron's series of posts on getting better at life.
 
 * [Unconditional Acceptance of Yourself](http://zenhabits.net/unconditional)
 * [My Typical Day: How I Get People to Think I’m Productive](http://zenhabits.net/typical)
+
+**Note:** I still haven't went through the whole archive (located [here](http://zenhabits.net/archives/)).
