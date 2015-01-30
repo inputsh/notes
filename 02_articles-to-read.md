@@ -8,18 +8,6 @@ I deeply admire Aaron Swartz's life and his work. That's why I've decided to rea
 
 Full Archive is located [here](http://www.aaronsw.com/weblog/fullarchive).
 
-#### Raw Nerve
-
-Aaron's series of posts on getting better at life.
-
-1. [Take a step back](http://www.aaronsw.com/weblog/stepback)
-2. [Believe you can change](http://www.aaronsw.com/weblog/dweck)
-3. [Look at yourself objectively](http://www.aaronsw.com/weblog/semmelweis)
-4. [Lean into the pain](http://www.aaronsw.com/weblog/dalio)
-5. [Confront reality](http://www.aaronsw.com/weblog/anders)
-6. [Cherish mistakes](http://www.aaronsw.com/weblog/geremiah)
-7. [Fix the machine, not the person](http://www.aaronsw.com/weblog/nummi)
-
 #### Book Reviews
 
 1. [2011 Archive](http://www.aaronsw.com/weblog/books2011)
@@ -28,16 +16,6 @@ Aaron's series of posts on getting better at life.
 4. [2008 Archive](http://www.aaronsw.com/weblog/books2008)
 5. [2007 Archive](http://www.aaronsw.com/weblog/books2007)
 6. [2006 Archive](http://www.aaronsw.com/weblog/books2006)
-
-#### Shifting Series
-
-* http://www.aaronsw.com/weblog/shifting1
-* http://www.aaronsw.com/weblog/shifting2
-* http://www.aaronsw.com/weblog/shifting3
-* http://www.aaronsw.com/weblog/shifting4
-* http://www.aaronsw.com/weblog/shifting5
-* http://www.aaronsw.com/weblog/shifting6
-* http://www.aaronsw.com/weblog/shifting7
 
 #### Other
 
