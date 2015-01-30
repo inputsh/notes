@@ -1,5 +1,7 @@
 # Ideas, thoughts, conclusions...
 
+For a computer brain to behave like a human brain, he does not to be always right. It probably _is_ possible to be always right
+
 Da bi se računar ponašao kao čovjek, i nije i jeste potrebno biti uvijek upravu. Biti upravu nije uvijek moguće, dakle, računar bi trebao da traži najbolje moguće rješenje, međutim, u nekim situacijama, najbolje rješenje ne postoji, i ono glavno rješenje nas samo stavlja u nove nedoumice.
 
 Dolazak do najboljeg rješenja često je upitno za računar zato što zahtijeva preveliku moć računara. Kako će se računar ponašati ukoliko nema potrebnih resursa?

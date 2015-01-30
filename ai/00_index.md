@@ -61,7 +61,5 @@ In 1958, **McCarthy** published a paper entitled **_Programs with Common Sense_*
 >
 > **Herbert Simon (1957)**
 
-## The availability of very large datasets (2001-present)
-
 Through the 60-year history of computer science, the emphasis has been on the _algorithm_ as the main subject of study. But some recent work in AI suggests that for many problems, it
 makes more sense to worry about the data and be less picky about what algorithm to apply. This is true because of the increasing availability of very large data sources.
