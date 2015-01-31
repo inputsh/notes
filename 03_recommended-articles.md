@@ -2,7 +2,7 @@
 
 The list of articles I find rather interesting. I strongly recommend you to read them. They're divided into different topics and in the language they're written in.
 
-You might also visit the list of [articles I have written](https://github.com/aleksandar-todorovic/https://github.com/aleksandar-todorovic/published-papers-and-articles/#my-published-papers) for various sources.
+You might also visit the list of [articles I have written](https://github.com/aleksandar-todorovic/published-papers-and-articles/#my-published-papers) for various sources.
 
 ## English
 
@@ -32,7 +32,7 @@ You might also visit the list of [articles I have written](https://github.com/al
 * [I went to jail for my cause. What did you do?](http://www.wired.co.uk/news/archive/2014-12/11/peter-sunde) - In this article, Peter Sunde (co-founder of The Pirate Bay) tells us to stop talking about what should be done for the free culture and to start acting.
   * Author: Peter Sunde
   * Date: December 11th, 2014
-* [The Pirate Bay down, forever?](The Pirate Bay down, forever?) - In this article Peter Sunde shares his thoughts about why The Pirate Bay should stay down. His point is that it got ran over by time and that we should build something new and better.
+* [The Pirate Bay down, forever?](http://blog.brokep.com/2014/12/09/the-pirate-bay-down-forever/) - In this article Peter Sunde shares his thoughts about why The Pirate Bay should stay down. His point is that it got ran over by time and that we should build something new and better.
   * Author: Peter Sunde
   * Date: December 9th, 2014
 * [The Truth about Teens and Privacy](https://medium.com/backchannel/the-truth-about-teens-and-privacy-988aee14a203) - A great article explaining why and how exactly teens appreciate privacy. Written by a teen itself, unlike most other articles that cover this subject.
@@ -47,7 +47,7 @@ You might also visit the list of [articles I have written](https://github.com/al
 * [Towards the Perfect Coin Flip: The NIST Randomness Beacon](http://hackaday.com/2014/12/19/nist-randomness-beacon/)
   * Author: Elliot Williams
   * Date: December 19th, 2014
-* [Gehl: Beware an Internet for all](http://www.sltrib.com/sltrib/opinion/56764743-82/internet-connected-facebook-google.html.csp)
+* [Beware an Internet for all](http://www.sltrib.com/sltrib/opinion/56764743-82/internet-connected-facebook-google.html.csp)
   * Author: Robert W. Gehl
   * Date: August 24th, 2013
 * [The “Moral Obscenity” of Washington's Empire](http://www.lewrockwell.com/lrc-blog/the-moral-obscenity-of-washingtons-empire/)

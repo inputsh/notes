@@ -31,26 +31,6 @@ There are three ways to get _inside_ the actual workings of human minds:
 Once we have a sufficiently precise theory of
 the mind, it becomes possible to express the theory as a computer program.
 
-## The Rational Agent Approach
-
-
-For each possible percept sequence, a rational agent should select an action that is expected to maximize its performance measure, given the evidence provided by the percept sequence and whatever built-in knowledge the agent has.
-
-**Rational Agent** is an agent that perceives environment and acts upon what he perceives. The goal is to make a rational agent more intelligent. To do that, we need a good **agent program** that will combine sensors with actions.
-
-In general, an agent’s choice of action at any given instant can depend on the entire percept sequence observed to date, but not on anything it hasn’t perceived.
-
-Computer agents are expected to do more than a usual computer program:
-* operate autonomously,
-* perceive their environment,
-* persist over a prolonged time period,
-* adapt to change, and
-* **create and pursue goals**.
-
-> If the organism carries a “small-scale model” of external reality and of its own possible actions within its head, it is able to try out various alternatives, conclude which is the best of them, react to future situations before they arise, utilize the knowledge of past events in dealing with the present and future, and in every way to react in a much fuller, safer, and more competent manner to the emergencies which face it.
->
-> **(Craik, 1943)**
-
 ## History
 
 The early years of AI were full of successes - in a limited way. The intellectual establishment, by and large, preferred to believe that _"a machine can never do X."_ AI researchers naturally responded by demonstrating one X after another. John McCarthy referred to this period as the _"Look, Ma, no hands!"_ era.
