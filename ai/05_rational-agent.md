@@ -72,7 +72,7 @@ measure are in agreement, then an agent that chooses actions to maximize its uti
 * Even with ingenious algorithms, perfect rationality is usually
 unachievable in practice because of computational complexity.
 
-**TODO: Insert a picture after the pull request**
+![image](https://raw.githubusercontent.com/aleksandar-todorovic/notes/master/images/utility-based-agents.png)
 
 ### Learning Agents
 

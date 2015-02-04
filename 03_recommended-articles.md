@@ -2,15 +2,27 @@
 
 The list of articles I find rather interesting. I strongly recommend you to read them. They're divided into different topics and in the language they're written in.
 
-You might also visit the list of [articles I have written](https://github.com/aleksandar-todorovic/published-papers-and-articles/#my-published-papers) for various sources.
+You might also want to visit the list of [articles I have written](https://github.com/aleksandar-todorovic/published-papers-and-articles/#my-published-papers) for various sources.
 
 ## English
 
-#### Artificial Intelligence
+#### Artificial Intelligence / Futurism
 
 * [Don’t Fear Artificial Intelligence](http://time.com/3641921/dont-fear-artificial-intelligence/)
   * Author: Ray Kurzweil
   * Date: December 19th, 2014
+* [Computers Are Writing Novels, But Do You Really Want To Read Them?](http://singularityhub.com/2014/11/09/computers-are-writing-novels-but-do-you-really-want-to-read-them/)
+  * Author: Jason Dorrier
+  * Date: November 9th, 2014
+* [Ray Kurzweil’s Mind-Boggling Predictions for the Next 25 Years](http://singularityhub.com/2015/01/26/ray-kurzweils-mind-boggling-predictions-for-the-next-25-years/)
+  * Author: Peter Diamandis
+  * Date: January 26th, 2015
+* [Company develops a way to 3D print DNA and design a living creature](http://blog.cosmosmagazine.com/blog/2015/2/2/company-develops-a-way-to-3d-print-dna-and-design-a-living-creature)
+  * Author: Alon Loeffler
+  * Date: February 2nd, 2015
+* [No, A 'Supercomputer' Did **NOT** Pass The Turing Test For The First Time And Everyone Should Know Better](https://www.techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pass-turing-test-first-time-everyone-should-know-better.shtml)
+  * Author: Mike Masnick
+  * Date: June 9th, 2014
 
 #### Free Culture
 
@@ -80,6 +92,9 @@ You might also visit the list of [articles I have written](https://github.com/al
 * [Finding the Motivation to Change Your Entire Life](http://zenhabits.net/life-changing/)
   * Author: Leo Babauta
   * Date: December 11th, 2014
+* [What happens when you unfollow everyone on the Internet](https://medium.com/@helena/the-purge-what-happens-when-you-unfollow-everyone-on-the-internet-7b05a27efae1) - Helena talks about what happens once you start to unfollow everyone on the Internet and focus on your career all day instead of checking your social media feeds every couple of minutes.
+  * Author: Helena Price
+  * Date: February 2nd, 2015
 * [10 Quick and Actionable Hacks for Productivity](http://blog.notesmartly.com/10-quick-and-actionable-tips-for-productivity/) - Everyone loves articles that show you a quick and easy way to get something done. This is my favorite one.
   * Author: Hunter Boyle
   * Date: November 6th, 2014
