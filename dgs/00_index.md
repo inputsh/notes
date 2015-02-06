@@ -15,3 +15,5 @@ The computer consists of:
 * **Memory** - a place where data is stored in a binary shape.
 * **I/O units** - parts of the computer that provides the user with the user experience.
 * **Bus** - the "roads" inside of a computer.
+
+![image](https://raw.githubusercontent.com/aleksandar-todorovic/notes/master/images/basic-digital-operations.png)
