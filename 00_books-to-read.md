@@ -1,4 +1,4 @@
-# Lista za čitanje - knjige
+# Books to Read
 
 This is the list of books I'm currently reading or planning on reading in the near future.
 
@@ -7,6 +7,7 @@ This is the list of books I'm currently reading or planning on reading in the ne
 * VA - Share This Book
 * Stuart Russell, Peter Norvig - Artificial Intelligence - A Modern Approach
 * Donato Carissi - The Whisperer
+* Lori Brighton - Mind Readers
 
 ## Books I'm Planning on Reading
 

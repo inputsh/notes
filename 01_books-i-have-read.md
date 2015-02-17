@@ -2,27 +2,31 @@
 
 This is the list of the books I have read (or at least those that I could remember reading). They're posted into different categories depending on the topic they're covering. The more books I read, the more specific will the categories become.
 
+I'm a part of the [2015 Reading Challenge](https://www.goodreads.com/challenges/3082-2015-reading-challenge) by Goodreads. I've set my goal to 20 books in 2015. I might increase it over time depending on how much I read. I'm currently  
+
 ## Technology
 
-* Sylvie Devilette - **Handbook For Bloggers And Cyber Dissidents** (★★★☆☆)
-* Ivo Quartiroli - **Facebook Logout: Experiences and Reasons to Leave it** (★★☆☆☆)
-* Peter A. Bornstein - **2030 - Will Computers Become Human?** (★★★☆☆)
-* Andrew Keen - **Digital Vertigo: How Today's Online Social Revolution is Dividing, Diminishing and Disorienting Us** (★★★★☆)
+* Sylvie Devilette: Handbook For Bloggers And Cyber Dissidents (★★★☆☆)
+* Ivo Quartiroli: Facebook Logout: Experiences and Reasons to Leave it (★★☆☆☆)
+* Peter A. Bornstein: 2030 - Will Computers Become Human?  (★★★☆☆)
+* Andrew Keen:  Digital Vertigo: How Today's Online Social Revolution is Dividing, Diminishing and Disorienting Us  (★★★★☆)
 
-## Education / Productivity
+## Productivity
 
-* John Ramos - **Super Student Roadmap** (★★★★★)
+* John Ramos:  Super Student Roadmap  (★★★★★)
+* Scott H. Young:  How to Get More From Life  (★★★★☆)
+* Alex Wild:  Productivity Hacks Unleashed  (★☆☆☆☆)
 
 ## Novels
 
-* J.K. Rowling - **Harry Potter** (the whole 7-book series) (★★★★☆)
-* George R.R. Martin - **The Armageddon Rag** (★★★★★)
-* George R.R. Martin - **A Song of Ice and Fire** (first two books) (★★★★★)
-* John Green - **The Fault in Our Stars** (★★★★☆)
+* J.K. Rowling:  Harry Potter  (the whole 7-book series) (★★★★☆)
+* George R.R. Martin:  The Armageddon Rag  (★★★★★)
+* George R.R. Martin:  A Song of Ice and Fire  (first two books) (★★★★★)
+* John Green:  The Fault in Our Stars  (★★★★☆)
 
 ## Books in Serbian / Bosnian / Croatian Language
 
-* Marko Šelić Marčelo - **Napet šou** (★★★★★)
+* Marko Šelić Marčelo:  Napet šou  (★★★★★)
 
 ## Psychology
 
@@ -30,4 +34,4 @@ This is the list of the books I have read (or at least those that I could rememb
 
 ## Miscellaneous
 
-* Henry Goldkamp - **What The Hell is Saint Louis Thinking?** (★★★★★)
+* Henry Goldkamp:  What The Hell is Saint Louis Thinking?  (★★★★★)

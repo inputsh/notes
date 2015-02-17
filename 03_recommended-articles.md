@@ -77,6 +77,9 @@ You might also want to visit the list of [articles I have written](https://githu
 
 #### Productivity
 
+* [MIT Challenge](http://www.scotthyoung.com/blog/mit-challenge/)
+  * Author: Scott H. Young
+  * Date: 
 * [How to Have a Year That Counts](https://medium.com/bad-words/how-to-have-a-year-that-counts-ee7e8d196b48) - Best motivation article I've read so far.
   * Author: Umair Haque
   * Date: January 8th, 2015
