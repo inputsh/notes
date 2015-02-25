@@ -2,12 +2,15 @@
 
 This is the list of books I'm currently reading or planning on reading in the near future.
 
-## Books I'm Currently Reading
+## Book I'm Currently Reading
+
+* Lori Brighton - Mind Thieves
+
+## Books I've Started to Read (But Never Finished Them)
 
 * VA - Share This Book
 * Stuart Russell, Peter Norvig - Artificial Intelligence - A Modern Approach
 * Donato Carissi - The Whisperer
-* Lori Brighton - Mind Readers
 
 ## Books I'm Planning on Reading
 
@@ -22,6 +25,7 @@ This is the list of books I'm currently reading or planning on reading in the ne
 
 * Jayneil Dalal, Sohil Patel - Instant OpenCV Starter
 * Jason Cannon - Bash Command Line Pro Tips
+* Daniel Silver - Twitter Followers: Building Your Twitter Followers in 2015
 
 ### Productivity
 

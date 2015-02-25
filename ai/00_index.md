@@ -2,8 +2,7 @@
 
 ## Turing Test
 
-The **Turing Test**, proposed by Alan Turing (1950), was designed to provide a satisfactory operational definition of intelligence. A computer passes the test if a human interrogator, after
-posing some written questions, cannot tell whether the written responses come from a person or from a computer. The computer would need to possess the following capabilities:
+The **Turing Test**, proposed by Alan Turing (1950), was designed to provide a satisfactory operational definition of intelligence. A computer passes the test if a human interrogator, after posing some written questions, cannot tell whether the written responses come from a person or from a computer. The computer would need to possess the following capabilities:
 
 * **natural language processing** to enable it to communicate successfully in English;
 * **knowledge representation** to store what it knows or hears;

@@ -2,7 +2,7 @@
 
 This is the list of the books I have read (or at least those that I could remember reading). They're posted into different categories depending on the topic they're covering. The more books I read, the more specific will the categories become.
 
-I'm a part of the [2015 Reading Challenge](https://www.goodreads.com/challenges/3082-2015-reading-challenge) by Goodreads. I've set my goal to 20 books in 2015. I might increase it over time depending on how much I read. I'm currently  
+I'm a part of the [2015 Reading Challenge](https://www.goodreads.com/challenges/3082-2015-reading-challenge) by Goodreads. I've set my goal to 20 books in 2015. I might increase it over time depending on how much I read. I've  read 6 books so far as a part of that challenge (updated on February 25th).
 
 ## Technology
 
@@ -23,6 +23,8 @@ I'm a part of the [2015 Reading Challenge](https://www.goodreads.com/challenges/
 * George R.R. Martin:  The Armageddon Rag  (★★★★★)
 * George R.R. Martin:  A Song of Ice and Fire  (first two books) (★★★★★)
 * John Green:  The Fault in Our Stars  (★★★★☆)
+* Lori Brighton - The Mind Readers (★★★☆☆)
+* Lori Brighton - The Mind Thieves (★★☆☆☆)
 
 ## Books in Serbian / Bosnian / Croatian Language
 
