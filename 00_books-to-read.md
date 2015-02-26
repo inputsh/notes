@@ -4,9 +4,9 @@ This is the list of books I'm currently reading or planning on reading in the ne
 
 ## Book I'm Currently Reading
 
-* Lori Brighton - Mind Thieves
+* Robert Sedgewick, Kevin Wayne - Algorithms (4th Edition)
 
-## Books I've Started to Read (But Never Finished Them)
+## Books I've Started to Read (But Didn't Finish Them)
 
 * VA - Share This Book
 * Stuart Russell, Peter Norvig - Artificial Intelligence - A Modern Approach

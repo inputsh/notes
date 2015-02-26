@@ -2,7 +2,7 @@
 
 This is the list of the books I have read (or at least those that I could remember reading). They're posted into different categories depending on the topic they're covering. The more books I read, the more specific will the categories become.
 
-I'm a part of the [2015 Reading Challenge](https://www.goodreads.com/challenges/3082-2015-reading-challenge) by Goodreads. I've set my goal to 20 books in 2015. I might increase it over time depending on how much I read. I've  read 6 books so far as a part of that challenge (updated on February 25th).
+I'm a part of the [2015 Reading Challenge](https://www.goodreads.com/challenges/3082-2015-reading-challenge) by Goodreads. I've set my goal to 20 books in 2015. I might increase it over time depending on how much I read. I've  read 7 books so far as a part of that challenge (updated on February 25th).
 
 ## Technology
 
@@ -17,14 +17,22 @@ I'm a part of the [2015 Reading Challenge](https://www.goodreads.com/challenges/
 * Scott H. Young:  How to Get More From Life  (★★★★☆)
 * Alex Wild:  Productivity Hacks Unleashed  (★☆☆☆☆)
 
-## Novels
+## Fiction
 
 * J.K. Rowling:  Harry Potter  (the whole 7-book series) (★★★★☆)
 * George R.R. Martin:  The Armageddon Rag  (★★★★★)
-* George R.R. Martin:  A Song of Ice and Fire  (first two books) (★★★★★)
-* John Green:  The Fault in Our Stars  (★★★★☆)
+* George R.R. Martin:  A Game of Thrones (A Song of Ice and Fire Series) (★★★☆☆)
+* George R.R. Martin: A Clash of Kings (A Song of Ice and Fire Series) (★★★★☆)
+
+## Comics
+
+* Alan Moore - V for Vendetta (★★★★☆)
+
+## Young Adult
+
 * Lori Brighton - The Mind Readers (★★★☆☆)
 * Lori Brighton - The Mind Thieves (★★☆☆☆)
+* John Green:  The Fault in Our Stars  (★★★★☆)
 
 ## Books in Serbian / Bosnian / Croatian Language
 
