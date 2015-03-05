@@ -4,15 +4,13 @@ These are my current collage grades. I'm studying IT Engineering at [eMPIRICA](h
 
 **NOTE:** `..` stands for: I still haven't passed this subject.
 
-**NOTE 2:** I'm from a country that uses percentages instead of grade point value per credit. 55% is needed to pass (equivalent to C- grade). [Useful link](http://www.ecuad.ca/studentservices/academic_advising/grade_point_average) to convert percentages to points.
+**NOTE 2:** I'm from a country that uses percentages instead of grade point value per credit. 55% is needed to pass (equivalent to C- grade). [Useful link](http://www.ecuad.ca/studentservices/academic_advising/grade_point_average).
 
 ## Current Average
 
-I'm from a country that uses percentages
+Average points: 80.41 (3.35 GPA)
 
-Average grade: 80.41 (3.35 GPA)
-
-## Grades by Semester
+## Grades by the Semester
 
 #### First Semester
 
