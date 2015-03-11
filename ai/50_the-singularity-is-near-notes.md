@@ -22,3 +22,14 @@ versa).
 > * Most important, the intelligence that will emerge will continue to represent the human civilization, which is already a human-machine civilization. In other words, future machines will be human, even if they are not biological. This will be the next step in evolution, the next high-level paradigm shift, the next level of indirection.
 
 ## Chapter Two: A Theory of Technological Evolution
+
+> No communication technology has ever disappeared but instead becomes increasingly less important as the technological horizon widens.
+>
+> **Arthur C. Clarke**
+
+There were actually four different paradigms -- **electromechanical, relays, vacuum tubes and discrete transistors** -- that showed exponential growth in the price-performance of computing long before integrated circuits were even invented. And Moore's paradigm won't be the last. When Moore's Law reaches **the end** of its S-curve, now expected **before 2020**, the exponential growth will continue with **three-dimensional** molecular **computing**, which will constitute the **sixth paradigm**.
+
+
+> Civilization advances by extending the number of important operations which we can perform without thinking about them.
+>
+> **Alfred North Whitehead**
