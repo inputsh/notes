@@ -102,6 +102,12 @@ You might also want to visit the list of [articles I have written](https://githu
   * Author: Hunter Boyle
   * Date: November 6th, 2014
 
+#### Psychology
+
+* [Why Do We Smoke Cigarettes?](http://smokingsides.com/docs/whysmoke.html)
+  * Author: Ernest Dichter
+  * Date: 1947
+
 #### Music
 
 * [Wheel It Up: History of the Rewind](https://medium.com/cuepoint/wheel-it-up-history-of-the-rewind-21fdcff243d9)
