@@ -13,13 +13,15 @@ Ray believes that the entire history of universe (and the future) can be divided
 5. The Merger of Human Technology with Human Intelligence - The point of time when the creators (humans) will become one with their technology to create a some sort of Human 2.0.
 6. The Universe Wakes Up - The point of time when Human 2.0 is going to figure out the secrets in universe. It is believed that in this epoch we will have the capacity to "put" a working brain into pretty much anything we imagine.
 
-> * Machines can pool their resources, intelligence, and memories. Two machines—or one million machines—can join together to become one and then become separate again. Multiple machines can do both at the same time: become one and separate simultaneously. Humans call this falling in love, but our biological ability to do this is fleeting and unreliable.
+#### Quotes
 
-> * In virtual reality, we can be a different person both physically and emotionally. In fact, other people (such as
+* Machines can pool their resources, intelligence, and memories. Two machines—or one million machines—can join together to become one and then become separate again. Multiple machines can do both at the same time: become one and separate simultaneously. Humans call this falling in love, but our biological ability to do this is fleeting and unreliable.
+
+* In virtual reality, we can be a different person both physically and emotionally. In fact, other people (such as
 your romantic partner) will be able to select a different body for you than you might select for yourself (and vice
 versa).
 
-> * Most important, the intelligence that will emerge will continue to represent the human civilization, which is already a human-machine civilization. In other words, future machines will be human, even if they are not biological. This will be the next step in evolution, the next high-level paradigm shift, the next level of indirection.
+* Most important, the intelligence that will emerge will continue to represent the human civilization, which is already a human-machine civilization. In other words, future machines will be human, even if they are not biological. This will be the next step in evolution, the next high-level paradigm shift, the next level of indirection.
 
 ## Chapter Two: A Theory of Technological Evolution
 
@@ -28,7 +30,6 @@ versa).
 > **Arthur C. Clarke**
 
 There were actually four different paradigms -- **electromechanical, relays, vacuum tubes and discrete transistors** -- that showed exponential growth in the price-performance of computing long before integrated circuits were even invented. And Moore's paradigm won't be the last. When Moore's Law reaches **the end** of its S-curve, now expected **before 2020**, the exponential growth will continue with **three-dimensional** molecular **computing**, which will constitute the **sixth paradigm**.
-
 
 > Civilization advances by extending the number of important operations which we can perform without thinking about them.
 >
