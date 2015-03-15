@@ -1,4 +1,4 @@
-## Notes from the Book Singularity is Near by Ray Kurzweil
+## Notes from the Book The Singularity is Near by Ray Kurzweil
 
 These are the notes and quotes that I found in a book called The Singularity is Near: When Technology Transcends Biology by Ray Kurzweil.
 
@@ -34,3 +34,9 @@ There were actually four different paradigms -- **electromechanical, relays, vac
 > Civilization advances by extending the number of important operations which we can perform without thinking about them.
 >
 > **Alfred North Whitehead**
+
+## Chapter Three: Achieving the Computational Capacity of the Human Brain
+
+> Even if our estimate of the amount of computation required to simulate the human brain was too optimistic (that is, too low) by a factor of even one thousand (which I believe is unlikely), that would delay the Singularity by only about eight years. A factor of one million would mean a delay of only about fifteen years, and a factor of one billion would be a delay of about twenty-one years.
+
+* It is reasonable to expect human brain capacity, at least in terms of hardware computational capacity, for one thousand dollars by around 2020.
