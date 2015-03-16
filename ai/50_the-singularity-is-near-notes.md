@@ -40,3 +40,5 @@ There were actually four different paradigms -- **electromechanical, relays, vac
 > Even if our estimate of the amount of computation required to simulate the human brain was too optimistic (that is, too low) by a factor of even one thousand (which I believe is unlikely), that would delay the Singularity by only about eight years. A factor of one million would mean a delay of only about fifteen years, and a factor of one billion would be a delay of about twenty-one years.
 
 * It is reasonable to expect human brain capacity, at least in terms of hardware computational capacity, for one thousand dollars by around 2020.
+
+* Human brain can master about 100.000 concepts in their own domain.
