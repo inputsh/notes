@@ -4,10 +4,11 @@ This is the list of books I'm currently reading or planning on reading in the ne
 
 ## Book I'm Currently Reading
 
-* Robert Sedgewick, Kevin Wayne - Algorithms (4th Edition)
+* Richard Dawkins - The God Delusion
 
 ## Books I've Started to Read (But Didn't Finish Them)
 
+* Robert Sedgewick, Kevin Wayne - Algorithms (4th Edition)
 * VA - Share This Book
 * Stuart Russell, Peter Norvig - Artificial Intelligence - A Modern Approach
 * Donato Carissi - The Whisperer
@@ -16,7 +17,6 @@ This is the list of books I'm currently reading or planning on reading in the ne
 
 ### Technology / Education
 
-* Ray Kurzweil - The Singularity Is Near: When Humans Transcend Biology (2005)
 * Ray Kurzweil - How to Create a Mind (2012)
 * David J.C. MacKay - Information Theory, Inference, and Learning Algorithms (2003)
 * VA - The Next Digital Decade: Essays on the Future of the Internet (2010)

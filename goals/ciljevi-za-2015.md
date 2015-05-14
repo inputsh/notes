@@ -44,4 +44,4 @@
 
 * Dobijem neki inostrani posao u struci i pobjegnem iz Bosne.
 * Dođem do prilike da se bavim muzikom van ove države.
-* Dobijem priliku da volontiram negdje u inozemstvu.
+* [x] ~~Dobijem priliku da volontiram negdje u inozemstvu.~~
