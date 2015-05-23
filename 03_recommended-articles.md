@@ -23,6 +23,9 @@ You might also want to visit the list of [articles I have written](https://githu
 * [No, A 'Supercomputer' Did **NOT** Pass The Turing Test For The First Time And Everyone Should Know Better](https://www.techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pass-turing-test-first-time-everyone-should-know-better.shtml)
   * Author: Mike Masnick
   * Date: June 9th, 2014
+* [The Ultimate Interface: Your Brain](http://singularityhub.com/2015/05/13/the-ultimate-interface-your-brain/)
+  * Author: Ramez Naam
+  * Date: May 13th, 2015
 
 #### Free Culture
 
@@ -79,7 +82,7 @@ You might also want to visit the list of [articles I have written](https://githu
 
 * [MIT Challenge](http://www.scotthyoung.com/blog/mit-challenge/)
   * Author: Scott H. Young
-  * Date: 
+  * Date:
 * [How to Have a Year That Counts](https://medium.com/bad-words/how-to-have-a-year-that-counts-ee7e8d196b48) - Best motivation article I've read so far.
   * Author: Umair Haque
   * Date: January 8th, 2015
