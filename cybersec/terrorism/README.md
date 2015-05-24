@@ -27,9 +27,13 @@ We do not live in a post 9/11 world. Although tragic, 9/11 incident was not a te
 "Terrorist want a lot of people watching and not a lot of people dead." Brian Jenkins in 1975.
 
 David Rapoport distinguished four waves of terrorism, each of them lasted for two or three of decades, had a similar ideology and gradually faded out:
+
 1. **Anarchists (1880s)** - Started in Russia, terrorists used new technologies and communication tools such as telegraph and newspapers. One of the most notorious organizations: Narodnaya Volya. Russian tsar, empress of Austria, King of Italy and a U.S. president (McKinley) were killed during this wave.
+
 2. **Anti-colonial wave (1920s)** - Groups fought against their colonists. They called themselves freedom fighters instead of terrorists. Some popular groups: Irish Republican Army (IRA), Algerian Front de Liberation Nationale (FLN) and Irgun (territory of what we now know as Israel and Palestine).
+
 3. **New Left Wave (1960s)** - Closely related to the Vietnam war and the Cold war. They were vanguards of the oppressed world. Palestine Liberation Organization (PLO) was one of the most notorious organizations at the time. Black September was the group behind the hostage taking of Israeli athletes during the Olympic Games in Munich in 1972.
+
 4. **Religious Wave (1979 - ?)** - Islamic, Sikh, Jewish and Christian religious groups. Some sects like Aum Shinrikyo (killed 12, damaged thousand in their attack on Japanese subway by using WMD - Weapons of Mass Destruction - for the first time in a terrorist attack). Al Qaeda is the most famous terroristic group of this era.
 
 Will there be a fifth wave? Maybe its already here (ISIS).
