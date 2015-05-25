@@ -1,4 +1,6 @@
-## Week 2
+# Week 2
+
+## Researching Terrorism and Counterterrorism
 
 Three approaches to studying terrorism: **macrosociological**,
 **psychological**, and **psychosocial**.

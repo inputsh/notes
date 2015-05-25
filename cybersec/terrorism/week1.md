@@ -1,4 +1,6 @@
-## Week 1
+# Week 1
+
+## Definition and Essence of Terrorism
 
 Definition of terrorism (by the Oxford dictionary): Terrorism is the unofficial use of violence and intimidation in the pursuit of political aims.
 
