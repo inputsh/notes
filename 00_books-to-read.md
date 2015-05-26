@@ -4,7 +4,7 @@ This is the list of books I'm currently reading or planning on reading in the ne
 
 ## Book I'm Currently Reading
 
-* Richard Dawkins - The God Delusion
+* Andrew Hodges - Alan Turing: The Enigma
 
 ## Books I've Started to Read (But Didn't Finish Them)
 
@@ -25,7 +25,6 @@ This is the list of books I'm currently reading or planning on reading in the ne
 
 * Jayneil Dalal, Sohil Patel - Instant OpenCV Starter
 * Jason Cannon - Bash Command Line Pro Tips
-* Daniel Silver - Twitter Followers: Building Your Twitter Followers in 2015
 
 ### Productivity
 

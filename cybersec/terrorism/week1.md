@@ -13,9 +13,13 @@ Terrorists usually use a different word for themselves to justify their actions:
 "The main education of the public on terrorism is via the media and frequent misuse of the word will result in it becoming a meaningless cliché."
 
 Alex Schmidt says that there are four different reasons why we don't have a universal definition of the word terrorism:
+
 1. Terrorism is "a contested concept" (one man's terrorist is another man's freedom fighter)
+
 2. Linked to deligitimisation and criminalisation (different organizations have different lists of groups they consider as terrorist groups)
+
 3. Many types of terrorism, with different forms and manifestations (religion based, left wing and anarchist, right wing, individual issues etc.)
+
 4. Changes in meaning in the more than 200 years of its existence (when president McKinley was killed, nobody in the media used the word terrorism, but today it would be unthinkable that the killing of the US president would not be labeled as the act of terrorism)
 
 Yasser Arafat (I don't know anything about him yet) was labeled by some as a terrorist, but he is an owner of Nobel Peace Prize.
