@@ -8,9 +8,9 @@ Lots of people disagree with the term and there is no widely accepted definition
 
 Terrorists usually use a different word for themselves to justify their actions: freedom fighters, guerrilla, insurgent and revolutionary.
 
-"Terrorism will exist indefinitely because there will always be individuals and groups that get reassurance and motivation from this type of self-justification."
+> "Terrorism will exist indefinitely because there will always be individuals and groups that get reassurance and motivation from this type of self-justification."
 
-"The main education of the public on terrorism is via the media and frequent misuse of the word will result in it becoming a meaningless cliché."
+> "The main education of the public on terrorism is via the media and frequent misuse of the word will result in it becoming a meaningless cliché."
 
 Alex Schmidt says that there are four different reasons why we don't have a universal definition of the word terrorism:
 
@@ -26,7 +26,7 @@ Yasser Arafat (I don't know anything about him yet) was labeled by some as a ter
 
 We do not live in a post 9/11 world. Although tragic, 9/11 incident was not a terrorist attack that shaped the world and we have other, bigger accomplishments. Yay!
 
-"Terrorist want a lot of people watching and not a lot of people dead." Brian Jenkins in 1975.
+> "Terrorist want a lot of people watching and not a lot of people dead." Brian Jenkins in 1975.
 
 David Rapoport distinguished four waves of terrorism, each of them lasted for two or three of decades, had a similar ideology and gradually faded out:
 
