@@ -4,18 +4,21 @@ This directory contains my notes from the course Algorithms and Data Structures 
 
 ## Table of Content
 
- - [Compiling and executing C code in Linux](#compiling-and-executing-c-code-in-linux)
- - [Hello World in C](#hello-world-in-c)
- - [Reserved words](#reserved-words)
- - [C reference manual](#c-reference-manual)
+ - [Basics of C](#basics-of-c)
+    - [Compiling and executing C code in Linux](#compiling-and-executing-c-code-in-linux)
+    - [Hello World in C](#hello-world-in-c)
+    - [Reserved words](#reserved-words)
+    - [C reference manual](#c-reference-manual)
 
-## Compiling and executing C code in Linux
+## Basics of C
+
+#### Compiling and executing C code in Linux
 
 1. Create a `.c` file containing the code.
 2. Compile the code with `gcc -o NAME NAME.c`.
 3. Run the code with `./NAME`.
 
-## Hello world in C
+#### Hello world in C
 
 ```c
 #include <stdio.h>
@@ -27,10 +30,10 @@ int main()
 
 ```
 
-## Reserved words
+#### Reserved words
 
 > auto break case char const continue default do double else enum extern float for goto if int long register return short signed sizeof static struct switch typedef union unsigned void volatile while
 
-## C reference manual
+#### C reference manual
 
 http://www.acm.uiuc.edu/webmonkeys/book/c_guide/
