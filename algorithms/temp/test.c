@@ -1,23 +1,19 @@
-// Histogram za jednodimenzionalno polje
+//Upotreba strcpy i strncpy
 #include <stdio.h>
 #include <stdlib.h>
-#define SIZE 10
+#include <string.h>
 int main()
 {
-// inicializacija jednodimenzionalnog polja dužine 10
-int polje[ SIZE ]= { 9, 5, 3, 12, 1, 2, 14, 18, 4, 17 };
-int i;
-// brojac vanjski
-int j;
-// brojac unutrasnji
-printf("%s%13s%17s\n", "Element", "Vrijednost", "Histogram");
-for(i=0; i < SIZE; i++)
-{
-printf("%7d%13d", i, polje [ i ]);
-for ( j = 1; j <= polje [ i ]; j++)
-{
-printf("%c",'*');
-}
-printf("\n");
-}
+char x[]="Happy Birthday to You";
+char y[25];
+char z[25];
+//kopiramo sadrzaj od x u y
+printf("%s%s\n%s%s\n",
+"Niz znakova u polju x je: ", x,
+"Niz znakova u polju y je: ", strcpy( y, x ));
+//kopiramo prvih 14 znakov od x u z. Ne kopira se nula!
+strncpy( z, x, 14 );
+z[14] = '\0';
+//stavimo kraj niza
+printf("Niz znakova u polju z je: %s\n", z);
 }

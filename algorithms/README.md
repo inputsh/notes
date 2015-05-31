@@ -25,6 +25,8 @@ If you need a reference resource, here's [C Reference Manual](http://www.acm.uiu
  - [Basic logic](#basic-logic)
  - [Statements](#statements)
  - [Functions](#functions)
+ - [Arrays](#arrays)
+ - []
 
 #### Compiling and executing C code in Linux
 
@@ -54,9 +56,11 @@ int main()
 printf("Some variable: %X", NAME);
 ```
 
-* Integer: replace `%X` with `%d`
-* Float: replace `%X` with `%f` (use `%.2f` to print the float value with two decimal spaces)
-* Character: replace `%X` with `%c`
+* Integer: replace `%X` with `%d`.
+* Float: replace `%X` with `%f` (use `%.2f` to print the float value with two decimal spaces).
+* Character: replace `%X` with `%c`.
+* String: replace `%X` with `%s`, replace the `NAME` with the string you want to print.
+* Blank spaces: `%Xs`, where `X` is the number of empty spaces.
 
 #### Declaring variables
 
@@ -136,7 +140,7 @@ while (expression);
 ##### For
 
 ```c
-for(startValue; endValue; expression) {statement};
+for(startValue; endValue; incrementation) {statement};
 //example
 for(loop=0; loop<1000; loop++) {statement};
 ```
@@ -170,3 +174,55 @@ int name (int name2)
 ```
 
 `int main` is a required main function.
+
+#### Arrays
+
+```c
+#define SIZE X
+//X is a number that defines number of elements in an array.
+//This line should go directly after the last `#include` library.
+
+int main()
+{
+  int someArray[ SIZE ] = {el1, el2, el3, ..., elX};
+  //elX is the final element.
+  //Array should contain the number of elements defined under the `#define` line.
+}
+```
+
+You can also skip the whole `#define` line by doing this:
+
+```c
+  int someArray[ X ] = {el1, el2, el3, ..., elX};
+```
+
+#### Pointers
+
+I really don't know how to explain them, so here's an example:
+
+```c
+#include <stdio.h>
+
+void swap(int *c, int *d)
+{
+	int t = *c;
+	*c = *d;
+	*d = t;
+}
+
+void main()
+{
+	int a = 5, b = 3;
+	printf("Before swap: a = %d b = %d", a, b);
+	swap(&a, &b);
+	printf("After swap: a = %d b = %d", a, b);
+}
+```
+***
+
+#### Matrices
+
+```c
+int M[2][2] = {{a,b},{c,d}};
+//Creates a 2x2 matrice with values of a and b in a top row and values of c and d in the second row.
+```
