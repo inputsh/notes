@@ -39,7 +39,7 @@ printf("%d\n", a);  // sada printa vrijednost b (10)
 printf("%d\n", *p); // sada printa vrijednost b (10)
 ```
 
-`void` označava nedeklarisani tip podatka. Kada deklarišemo pointer kao `void`, možemo sa njim raditi sve što možemo i sa "normalnim" pointerima _osim_ dereferenciranja.__amd64
+`void` označava nedeklarisani tip podatka. Kada deklarišemo pointer kao `void`, možemo sa njim raditi sve što možemo i sa "normalnim" pointerima _osim_ dereferenciranja.
 
 Možemo kreirati neograničen broj pointera prema pointerima. Ukoliko napišemo:
 
@@ -51,7 +51,7 @@ b = &a;
 c = &b;
 ```
 
-...dobijemo da pointer `c` zapravo pokazuje na pointer `b` koji pokazuje na vrijednost iz `a`. Kada to printamo, dobijemo sljedeće:__amd64
+...dobijemo da pointer `c` zapravo pokazuje na pointer `b` koji pokazuje na vrijednost iz `a`. Kada to printamo, dobijemo sljedeće:
 
 ```c
 printf("%d\n", a);   // vraća 5
