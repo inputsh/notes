@@ -1,4 +1,4 @@
-## Pointeri
+# Pointeri
 
 Varijabla ima dvije vrijednosti:
 1. "Pravu" vrijednost (u `k = 2` prava vrijednost je 2)
