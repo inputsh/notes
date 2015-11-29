@@ -59,6 +59,7 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm planning on reading
 
+* `Carl Sagan, Ann Druyan`  The Varieties of Scientific Experience: A Personal View of the Search for God
 * `Andrew Hodges` Alan Turing: The Enigma
 * `Jim Whitehurst` The Open Organization: Igniting Passion and Performance
 * `Ray Kurzweil` How to Create a Mind

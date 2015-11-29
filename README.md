@@ -6,13 +6,15 @@ Inside of every directory, the files will have a numbered prefix (from 00 to 99)
 
 ## Me on the Web
 
-* [My Blog](https://r3bl.github.io/)
-* [My Portfolio](http://aleksandar-todorovic.github.io/)
-* [My GitHub profile](https://github.com/aleksandar-todorovic/)
-* [My Twitter account](https://twitter.com/r3bl_)
-* [My LinkedIn account](https://www.linkedin.com/in/aleksandartodorovic)
-* [My Google+ account](https://plus.google.com/117549842149032938678/)
+* Website: [r3bl.me](https://r3bl.me)
+* Blog: [blog.r3bl.me](https://blog.r3bl.me/)
+* Portfolio: [r3bl.me/en/portfolio](https://r3bl.me/en/portfolio/)
+* Twitter: [@r3bl_](https://twitter.com/r3bl_)
 
 ## Warning
 
 Although most of the files are written in English language, some of them might be written in (my native) Bosnian language.
+
+## License
+
+Public domain
