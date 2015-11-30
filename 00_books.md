@@ -31,6 +31,10 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 * `George R.R. Martin` A Clash of Kings (A Song of Ice and Fire Series) (★★★★☆)
 * `J.K. Rowling` Harry Potter (the whole series because I'm to lazy to list all of them separately) (★★★★☆)
 
+### Science Fiction
+
+* `Richard Matheson` I Am Legend (★★★☆☆)
+
 ### Comics
 
 * `Alan Moore` V for Vendetta (★★★★☆)
@@ -54,8 +58,7 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm currently reading
 
-* `Richard Matheson` I Am Legend
-* `Kass Morgan` The 100
+* `Kass Morgan` The 100 (111/299)
 
 ## Books I'm planning on reading
 
