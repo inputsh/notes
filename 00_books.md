@@ -34,6 +34,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 ### Science Fiction
 
 * `Richard Matheson` I Am Legend (★★★☆☆)
+* `Cory Doctrow` I, Robot (★★★★☆)
 
 ### Comics
 
