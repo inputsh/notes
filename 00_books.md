@@ -51,6 +51,7 @@ Don't judge me, I need something light to read sometimes.
 ### Books written by Serbian / Bosnian / Croatian authors
 
 * `Marko Šelić Marčelo` Napet šou (★★★★★)
+* `Marko Šelić Marčelo` Zajedno sami (★★★★☆)
 
 ### Miscellaneous
 
