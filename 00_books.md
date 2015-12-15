@@ -55,6 +55,7 @@ Don't judge me, I need something light to read sometimes.
 
 ### Miscellaneous
 
+* `Felicia Day` You're Never Weird on the Internet (Almost) (★★★★★)
 * `Henry Goldkamp` What The Hell is Saint Louis Thinking? (★★★★★)
 * `Richard Dawkins` The God Delusion (★★★★★)
 
