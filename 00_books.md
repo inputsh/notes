@@ -26,9 +26,9 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 ### Fiction
 
 * `George Orwell` Animal Farm (★★★★★)
-* `George R.R. Martin` The Armageddon Rag (★★★★★)
 * `George R.R. Martin` A Game of Thrones (A Song of Ice and Fire Series) (★★★☆☆)
 * `George R.R. Martin` A Clash of Kings (A Song of Ice and Fire Series) (★★★★☆)
+* `George R.R. Martin` The Armageddon Rag (★★★★★)
 * `J.K. Rowling` Harry Potter (the whole series because I'm to lazy to list all of them separately) (★★★★☆)
 
 ### Science Fiction
@@ -44,9 +44,9 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 
 Don't judge me, I need something light to read sometimes.
 
+* `John Green` The Fault in Our Stars (★★★★☆)
 * `Lori Brighton` The Mind Readers (★★★☆☆)
 * `Lori Brighton` The Mind Thieves (★★☆☆☆)
-* `John Green` The Fault in Our Stars (★★★★☆)
 
 ### Books written by Serbian / Bosnian / Croatian authors
 
@@ -65,11 +65,11 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm planning on reading
 
-* `Carl Sagan, Ann Druyan`  The Varieties of Scientific Experience: A Personal View of the Search for God
 * `Andrew Hodges` Alan Turing: The Enigma
+* `Carl Sagan, Ann Druyan`  The Varieties of Scientific Experience: A Personal View of the Search for God
+* `Dan Riley` Generation Atheist
+* `George Orwell` 1984
 * `Jim Whitehurst` The Open Organization: Igniting Passion and Performance
 * `Ray Kurzweil` How to Create a Mind
-* `George Orwell` 1984
-* `Dan Riley` Generation Atheist
 * `Richard Stephenson` Collapse (New America Book 1)
 * `Stephen G. Mitchell` 2076: A Revolutionary Tale: All Systems Have Failed
