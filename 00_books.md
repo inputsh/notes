@@ -1,5 +1,7 @@
 # Books
 
+> After all any book is just a list of thoughts of another guy, who might be wrong.
+
 This file is the ultimate list of books that I have read, that I'm reading currently, and that I'm planning on reading in the future. So, in a way, this is my way of getting rid of GoodReads because... well, I hate its design.
 
 ## Books I have read
