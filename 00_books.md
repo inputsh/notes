@@ -63,6 +63,7 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm currently reading
 
+* `Atka Reid, Hana Schofield` Goodbye Sarajevo (52/335)
 * `Kass Morgan` The 100 (111/299)
 
 ## Books I'm planning on reading
