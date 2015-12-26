@@ -57,7 +57,7 @@ Don't judge me, I need something light to read sometimes.
 
 ### Miscellaneous
 
-* `Atka Reid, Hana Schofield` Goodbye Sarajevo (★★★★★))
+* `Atka Reid, Hana Schofield` Goodbye Sarajevo (★★★★★)
 * `Felicia Day` You're Never Weird on the Internet (Almost) (★★★★★)
 * `Henry Goldkamp` What The Hell is Saint Louis Thinking? (★★★★★)
 * `Richard Dawkins` The God Delusion (★★★★★)
