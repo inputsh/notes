@@ -57,13 +57,13 @@ Don't judge me, I need something light to read sometimes.
 
 ### Miscellaneous
 
+* `Atka Reid, Hana Schofield` Goodbye Sarajevo (★★★★★))
 * `Felicia Day` You're Never Weird on the Internet (Almost) (★★★★★)
 * `Henry Goldkamp` What The Hell is Saint Louis Thinking? (★★★★★)
 * `Richard Dawkins` The God Delusion (★★★★★)
 
 ## Books I'm currently reading
 
-* `Atka Reid, Hana Schofield` Goodbye Sarajevo (266/335)
 * `Kass Morgan` The 100 (111/299)
 
 ## Books I'm planning on reading
