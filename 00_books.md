@@ -13,6 +13,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 * `Andrew Keen` Digital Vertigo: How Today's Online Social Revolution is Dividing, Diminishing and Disorienting Us (★★★★☆)
 * `Ivo Quartiroli` Facebook Logout: Experiences and Reasons to Leave it (★★☆☆☆)
 * `Jason Hibbets` The foundations for an open source city (★★★★★)
+* `Sarah Jeong` The Internet of Garbage (★★★☆☆)
 * `Sylvie Devilette` Handbook For Bloggers And Cyber Dissidents (★★★☆☆)
 
 ### Futuristic
@@ -74,5 +75,4 @@ Don't judge me, I need something light to read sometimes.
 * `George Orwell` 1984
 * `Jim Whitehurst` The Open Organization: Igniting Passion and Performance
 * `Ray Kurzweil` How to Create a Mind
-* `Richard Stephenson` Collapse (New America Book 1)
-* `Stephen G. Mitchell` 2076: A Revolutionary Tale: All Systems Have Failed
+* `Finn Brunton, Helen Nissenbaum` Obfuscation: A User's Guide for Privacy and Protest
