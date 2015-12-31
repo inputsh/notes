@@ -16,6 +16,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 * `Jason Hibbets` The foundations for an open source city (★★★★★)
 * `Sarah Jeong` The Internet of Garbage (★★★☆☆)
 * `Sylvie Devilette` Handbook For Bloggers And Cyber Dissidents (★★★☆☆)
+* `Uday Veer Singh` Immune Web (★☆☆☆☆)
 
 ### Futuristic
 
