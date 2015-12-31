@@ -11,6 +11,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 ### Technology
 
 * `Andrew Keen` Digital Vertigo: How Today's Online Social Revolution is Dividing, Diminishing and Disorienting Us (★★★★☆)
+* `Cory Doctorow` Content (★★★★☆)
 * `Ivo Quartiroli` Facebook Logout: Experiences and Reasons to Leave it (★★☆☆☆)
 * `Jason Hibbets` The foundations for an open source city (★★★★★)
 * `Sarah Jeong` The Internet of Garbage (★★★☆☆)
