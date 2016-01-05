@@ -4,6 +4,11 @@
 
 This file is the ultimate list of books that I have read, that I'm reading currently, and that I'm planning on reading in the future. So, in a way, this is my way of getting rid of GoodReads because... well, I hate its design.
 
+## Reading challenges
+
+* 2015: 18/25
+* 2016: 0/20
+
 ## Books I have read
 
 Of course, this is in no way the list of every book I have ever read. Just the list of books that I remember that I have read.
