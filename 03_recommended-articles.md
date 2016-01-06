@@ -2,51 +2,51 @@
 
 The list of articles I find rather interesting. I strongly recommend you to read them. They're divided into different topics and in the language they're written in.
 
-You might also want to visit the list of [articles I have written](https://github.com/aleksandar-todorovic/published-papers-and-articles/#my-published-papers) for various sources.
+You might also want to visit the list of [articles I have written](https://r3bl.me) for various sources.
 
 ## English
 
 #### Artificial Intelligence / Futurism
 
-* [Don’t Fear Artificial Intelligence](http://time.com/3641921/dont-fear-artificial-intelligence/)
-  * Author: Ray Kurzweil
-  * Date: December 19th, 2014
-* [Computers Are Writing Novels, But Do You Really Want To Read Them?](http://singularityhub.com/2014/11/09/computers-are-writing-novels-but-do-you-really-want-to-read-them/)
-  * Author: Jason Dorrier
-  * Date: November 9th, 2014
-* [Ray Kurzweil’s Mind-Boggling Predictions for the Next 25 Years](http://singularityhub.com/2015/01/26/ray-kurzweils-mind-boggling-predictions-for-the-next-25-years/)
-  * Author: Peter Diamandis
-  * Date: January 26th, 2015
 * [Company develops a way to 3D print DNA and design a living creature](http://blog.cosmosmagazine.com/blog/2015/2/2/company-develops-a-way-to-3d-print-dna-and-design-a-living-creature)
-  * Author: Alon Loeffler
-  * Date: February 2nd, 2015
+    * Author: Alon Loeffler
+    * Date: February 2nd, 2015
+* [Computers Are Writing Novels, But Do You Really Want To Read Them?](http://singularityhub.com/2014/11/09/computers-are-writing-novels-but-do-you-really-want-to-read-them/)
+    * Author: Jason Dorrier
+    * Date: November 9th, 2014
+* [Don’t Fear Artificial Intelligence](http://time.com/3641921/dont-fear-artificial-intelligence/)
+    * Author: Ray Kurzweil
+    * Date: December 19th, 2014
 * [No, A 'Supercomputer' Did **NOT** Pass The Turing Test For The First Time And Everyone Should Know Better](https://www.techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pass-turing-test-first-time-everyone-should-know-better.shtml)
-  * Author: Mike Masnick
-  * Date: June 9th, 2014
+    * Author: Mike Masnick
+    * Date: June 9th, 2014
+* [Ray Kurzweil’s Mind-Boggling Predictions for the Next 25 Years](http://singularityhub.com/2015/01/26/ray-kurzweils-mind-boggling-predictions-for-the-next-25-years/)
+    * Author: Peter Diamandis
+    * Date: January 26th, 2015
 * [The Ultimate Interface: Your Brain](http://singularityhub.com/2015/05/13/the-ultimate-interface-your-brain/)
-  * Author: Ramez Naam
-  * Date: May 13th, 2015
+    * Author: Ramez Naam
+    * Date: May 13th, 2015
 
 #### Free Culture
 
+* [At What Point Will The Next Generation Kill The Copyright Monopoly Altogether?](http://torrentfreak.com/kill-the-copyright-monopoly-altogether-130915/)
+    * Author: Rick Falkvinge
+    * Date: September 15th, 2013
+* [How to honor Aaron Swartz’s life](https://medium.com/sample-collection/how-to-honor-aaron-swartz-33a2ae09598a) - An article explaining what you should to to honor Aaron Swartz, one of the brightest minds of our time.
+    * Author: Ben Wikler
+    * Date: January 13th, 2014.
+* [I'm Sorry I Could Only Afford To Pirate Your Album](http://falkvinge.net/2013/02/26/im-sorry-i-could-only-afford-to-pirate-your-album/) - An interesting article that explain why a listener got mad at the artist when he said that piracy is bad and attacked those who pirate his work.
+    * Author: Zacqary Adam Xeper
+    * Date: February 26th, 2014
+* [I went to jail for my cause. What did you do?](http://www.wired.co.uk/news/archive/2014-12/11/peter-sunde) - In this article, Peter Sunde (co-founder of The Pirate Bay) tells us to stop talking about what should be done for the free culture and to start acting.
+    * Author: Peter Sunde
+    * Date: December 11th, 2014
+* [The legacy of open source and the tide of progress](https://opensource.com/life/13/9/legacy-open-source-tide-progress) - Why not change the world?
+    * Author: Stephen Gallagher
+    * Date: September 24th, 2013
 * [The Free Future Starts Now](http://www.brandxindustries.com/blog/2014/12/4/the-free-future-starts-now) - A blog post that explains why the movie movie called [ALGORITHM: The Hacker Movie (2014)](https://www.youtube.com/watch?v=6qpudAhYhpc) got released for free.
   * Author: Jon Shiefer
   * Date: December 4th, 2014.
-* [How to honor Aaron Swartz’s life](https://medium.com/sample-collection/how-to-honor-aaron-swartz-33a2ae09598a) - An article explaining what you should to to honor Aaron Swartz, one of the brightest minds of our time.
-  * Author: Ben Wikler
-  * Date: January 13th, 2014.
-* [At What Point Will The Next Generation Kill The Copyright Monopoly Altogether?](http://torrentfreak.com/kill-the-copyright-monopoly-altogether-130915/)
-  * Author: Rick Falkvinge
-  * Date: September 15th, 2013
-* [I'm Sorry I Could Only Afford To Pirate Your Album](http://falkvinge.net/2013/02/26/im-sorry-i-could-only-afford-to-pirate-your-album/) - An interesting article that explain why a listener got mad at the artist when he said that piracy is bad and attacked those who pirate his work.
-  * Author: Zacqary Adam Xeper
-  * Date: February 26th, 2014
-* [The legacy of open source and the tide of progress](https://opensource.com/life/13/9/legacy-open-source-tide-progress) - Why not change the world?
-  * Author: Stephen Gallagher
-  * Date: September 24th, 2013
-* [I went to jail for my cause. What did you do?](http://www.wired.co.uk/news/archive/2014-12/11/peter-sunde) - In this article, Peter Sunde (co-founder of The Pirate Bay) tells us to stop talking about what should be done for the free culture and to start acting.
-  * Author: Peter Sunde
-  * Date: December 11th, 2014
 * [The Pirate Bay down, forever?](http://blog.brokep.com/2014/12/09/the-pirate-bay-down-forever/) - In this article Peter Sunde shares his thoughts about why The Pirate Bay should stay down. His point is that it got ran over by time and that we should build something new and better.
   * Author: Peter Sunde
   * Date: December 9th, 2014
@@ -56,54 +56,54 @@ You might also want to visit the list of [articles I have written](https://githu
 
 #### Technology
 
-* [Markdown throwdown: what happens when FOSS software gets corporate backing?](http://arstechnica.com/information-technology/2014/10/markdown-throwdown-what-happens-when-foss-software-gets-corporate-backing/) - The title says it all. If you ever wanted why there are so many markdown forks available, this is the post you should be reading right now.
-  * Author: Scott Gilbertson
-  * Date: October 5th, 2014
-* [Towards the Perfect Coin Flip: The NIST Randomness Beacon](http://hackaday.com/2014/12/19/nist-randomness-beacon/)
-  * Author: Elliot Williams
-  * Date: December 19th, 2014
 * [Beware an Internet for all](http://www.sltrib.com/sltrib/opinion/56764743-82/internet-connected-facebook-google.html.csp)
-  * Author: Robert W. Gehl
-  * Date: August 24th, 2013
-* [The “Moral Obscenity” of Washington's Empire](http://www.lewrockwell.com/lrc-blog/the-moral-obscenity-of-washingtons-empire/)
-  * Author: William Norman Grigg
-  * Date: August 27th, 2013
-* [The US government has betrayed the internet. We need to take it back](http://www.theguardian.com/commentisfree/2013/sep/05/government-betrayed-internet-nsa-spying)
-  * Author: Bruce Schneier
-  * Date: September 5th, 2013
+    * Author: Robert W. Gehl
+    * Date: August 24th, 2013
 * [How NSA access was built into Windows](http://www.heise.de/tp/artikel/5/5263/1.html)
-  * Author: Duncan Campbell
-  * Date: Semptember 4th, 1999
+    * Author: Duncan Campbell
+    * Date: Semptember 4th, 1999
+* [Markdown throwdown: what happens when FOSS software gets corporate backing?](http://arstechnica.com/information-technology/2014/10/markdown-throwdown-what-happens-when-foss-software-gets-corporate-backing/) - The title says it all. If you ever wanted why there are so many markdown forks available, this is the post you should be reading right now.
+    * Author: Scott Gilbertson
+    * Date: October 5th, 2014
 * [On the NSA](http://blog.cryptographyengineering.com/2013/09/on-nsa.html)
-  * Author: Matthew Green
-  * Date: September 6th, 2013
+    * Author: Matthew Green
+    * Date: September 6th, 2013
+* [The “Moral Obscenity” of Washington's Empire](http://www.lewrockwell.com/lrc-blog/the-moral-obscenity-of-washingtons-empire/)
+    * Author: William Norman Grigg
+    * Date: August 27th, 2013
+* [The US government has betrayed the internet. We need to take it back](http://www.theguardian.com/commentisfree/2013/sep/05/government-betrayed-internet-nsa-spying)
+    * Author: Bruce Schneier
+    * Date: September 5th, 2013
+* [Towards the Perfect Coin Flip: The NIST Randomness Beacon](http://hackaday.com/2014/12/19/nist-randomness-beacon/)
+    * Author: Elliot Williams
+    * Date: December 19th, 2014
 
 #### Productivity
 
-* [MIT Challenge](http://www.scotthyoung.com/blog/mit-challenge/)
-  * Author: Scott H. Young
-  * Date:
-* [How to Have a Year That Counts](https://medium.com/bad-words/how-to-have-a-year-that-counts-ee7e8d196b48) - Best motivation article I've read so far.
-  * Author: Umair Haque
-  * Date: January 8th, 2015
-* [Raw Nerve Series](http://www.aaronsw.com/weblog/rawnerve) - Seven posts on on getting better at life.
-  * Author: Aaron Swartz
-  * Date: August 18th, 2012 - September 25th, 2012
+* [10 Quick and Actionable Hacks for Productivity](http://blog.notesmartly.com/10-quick-and-actionable-tips-for-productivity/) - Everyone loves articles that show you a quick and easy way to get something done. This is my favorite one.
+    * Author: Hunter Boyle
+    * Date: November 6th, 2014
+* [Finding the Motivation to Change Your Entire Life](http://zenhabits.net/life-changing/)
+    * Author: Leo Babauta
+    * Date: December 11th, 2014
 * [Here’s Why You Shouldn't Be More Productive in 2015](https://www.linkedin.com/pulse/heres-why-you-shouldnt-more-tim-metz) - A great article explaining why you shouldn't try to be improve yourself on January 1st by changing some part of your life dramatically. Instead, you should try to slowly make improvements a day after day.
-  * Author: Tim Metz
-  * Date: December 11th, 2014
+    * Author: Tim Metz
+    * Date: December 11th, 2014
+* [How to Have a Year That Counts](https://medium.com/bad-words/how-to-have-a-year-that-counts-ee7e8d196b48) - Best motivation article I've read so far.
+    * Author: Umair Haque
+    * Date: January 8th, 2015
+* [MIT Challenge](http://www.scotthyoung.com/blog/mit-challenge/)
+    * Author: Scott H. Young
+    * Date:
+* [Raw Nerve Series](http://www.aaronsw.com/weblog/rawnerve) - Seven posts on on getting better at life.
+    * Author: Aaron Swartz
+    * Date: August 18th, 2012 - September 25th, 2012
+* [What happens when you unfollow everyone on the Internet](https://medium.com/@helena/the-purge-what-happens-when-you-unfollow-everyone-on-the-internet-7b05a27efae1) - Helena talks about what happens once you start to unfollow everyone on the Internet and focus on your career all day instead of checking your social media feeds every couple of minutes.
+    * Author: Helena Price
+    * Date: February 2nd, 2015
 * [What Prepares You for the Day?](https://medium.com/medium-writing-prompts/what-prepares-you-for-the-day-569939b9525e?recommendNoteId=25b55eba3065)
   * Author: Unknown (The Medium Writing Prompt)
   * Date: January 5th, 2015
-* [Finding the Motivation to Change Your Entire Life](http://zenhabits.net/life-changing/)
-  * Author: Leo Babauta
-  * Date: December 11th, 2014
-* [What happens when you unfollow everyone on the Internet](https://medium.com/@helena/the-purge-what-happens-when-you-unfollow-everyone-on-the-internet-7b05a27efae1) - Helena talks about what happens once you start to unfollow everyone on the Internet and focus on your career all day instead of checking your social media feeds every couple of minutes.
-  * Author: Helena Price
-  * Date: February 2nd, 2015
-* [10 Quick and Actionable Hacks for Productivity](http://blog.notesmartly.com/10-quick-and-actionable-tips-for-productivity/) - Everyone loves articles that show you a quick and easy way to get something done. This is my favorite one.
-  * Author: Hunter Boyle
-  * Date: November 6th, 2014
 
 #### Psychology
 
