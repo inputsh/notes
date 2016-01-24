@@ -7,7 +7,7 @@ This file is the ultimate list of books that I have read, that I'm reading curre
 ## Reading challenges
 
 * 2015: 18/25
-* 2016: 0/20
+* 2016: 2/20
 
 ## Books I have read
 
@@ -63,6 +63,7 @@ Don't judge me, I need something light to read sometimes.
 
 * `Marko Šelić Marčelo` Napet šou (★★★★★)
 * `Marko Šelić Marčelo` Zajedno sami (★★★★☆)
+* `Radoslav Dejanović` Umišljena inteligencija (★★★★☆)
 
 ### Miscellaneous
 
