@@ -7,7 +7,7 @@ This file is the ultimate list of books that I have read, that I'm reading curre
 ## Reading challenges
 
 * 2015: 18/25
-* 2016: 0/20
+* 2016: 2/20
 
 ## Books I have read
 
@@ -46,6 +46,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 
 * `Richard Matheson` I Am Legend (★★★☆☆)
 * `Cory Doctorow` I, Robot (★★★★☆)
+* `Cory Doctorow` When Sysadmins Ruled the Earth (★★★★☆)
 
 ### Comics
 
@@ -63,6 +64,7 @@ Don't judge me, I need something light to read sometimes.
 
 * `Marko Šelić Marčelo` Napet šou (★★★★★)
 * `Marko Šelić Marčelo` Zajedno sami (★★★★☆)
+* `Radoslav Dejanović` Umišljena inteligencija (★★★★☆)
 
 ### Miscellaneous
 
