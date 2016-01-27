@@ -17,6 +17,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 
 * `Andrew Keen` Digital Vertigo: How Today's Online Social Revolution is Dividing, Diminishing and Disorienting Us (★★★★☆)
 * `Cory Doctorow` Content (★★★★☆)
+* `Eli Parser` The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think (★★★★★)
 * `Ivo Quartiroli` Facebook Logout: Experiences and Reasons to Leave it (★★☆☆☆)
 * `Jason Hibbets` The foundations for an open source city (★★★★★)
 * `Sarah Jeong` The Internet of Garbage (★★★☆☆)
