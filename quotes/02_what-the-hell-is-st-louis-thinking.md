@@ -1,6 +1,6 @@
-## Iz **What The Hell is St. Louis Thinking**
+## **What The Hell is St. Louis Thinking**
 
-Unknown authors from a book called [What The Hell is St. Louis Thinking](http://stlcurator.com/henry-goldkamp-what-the-hell-stl/).
+Bunch of unknown authors from a book called [What The Hell is St. Louis Thinking](http://stlcurator.com/henry-goldkamp-what-the-hell-stl/).
 
 * We all drive on, walk past each other, not really knowing who we are. We’re all just strangers passing in the street, never stopping or taking the time.
 * At quiet times like this, I realize how alone I really feel.

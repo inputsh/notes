@@ -75,6 +75,7 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm currently reading
 
+* `Aaron Swartz` The Boy Who Could Change The World: The Writings of Aaron Swartz (224/355)
 * `Kass Morgan` The 100 (111/299)
 
 ## Books I'm planning on reading
@@ -82,7 +83,8 @@ Don't judge me, I need something light to read sometimes.
 * `Andrew Hodges` Alan Turing: The Enigma
 * `Carl Sagan, Ann Druyan`  The Varieties of Scientific Experience: A Personal View of the Search for God
 * `Dan Riley` Generation Atheist
+* `Finn Brunton, Helen Nissenbaum` Obfuscation: A User's Guide for Privacy and Protest
 * `George Orwell` 1984
 * `Jim Whitehurst` The Open Organization: Igniting Passion and Performance
+* `Noam Chomsky` Understanding Power
 * `Ray Kurzweil` How to Create a Mind
-* `Finn Brunton, Helen Nissenbaum` Obfuscation: A User's Guide for Privacy and Protest
