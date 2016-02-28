@@ -7,7 +7,7 @@ This file is the ultimate list of books that I have read, that I'm reading curre
 ## Reading challenges
 
 * 2015: 18/25
-* 2016: 2/20
+* 2016: 4/20
 
 ## Books I have read
 
@@ -15,6 +15,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 
 ### Technology
 
+* `Aaron Swartz` The Boy Who Could Change The World: The Writings of Aaron Swartz (★★★★☆)
 * `Andrew Keen` Digital Vertigo: How Today's Online Social Revolution is Dividing, Diminishing and Disorienting Us (★★★★☆)
 * `Cory Doctorow` Content (★★★★☆)
 * `Eli Parser` The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think (★★★★★)
@@ -44,9 +45,10 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 
 ### Science Fiction
 
-* `Richard Matheson` I Am Legend (★★★☆☆)
 * `Cory Doctorow` I, Robot (★★★★☆)
 * `Cory Doctorow` When Sysadmins Ruled the Earth (★★★★☆)
+* `Douglas Adams` The Hitchhiker's Guide to the Galaxy (★★★★★)
+* `Richard Matheson` I Am Legend (★★★☆☆)
 
 ### Comics
 
@@ -75,7 +77,6 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm currently reading
 
-* `Aaron Swartz` The Boy Who Could Change The World: The Writings of Aaron Swartz (224/355)
 * `Kass Morgan` The 100 (111/299)
 
 ## Books I'm planning on reading
@@ -83,8 +84,14 @@ Don't judge me, I need something light to read sometimes.
 * `Andrew Hodges` Alan Turing: The Enigma
 * `Carl Sagan, Ann Druyan`  The Varieties of Scientific Experience: A Personal View of the Search for God
 * `Dan Riley` Generation Atheist
+* `Dean Baker` False Profits: Recovering from the Bubble Economy
 * `Finn Brunton, Helen Nissenbaum` Obfuscation: A User's Guide for Privacy and Protest
 * `George Orwell` 1984
+* `George Orwell` All Art is Propaganda: Critical Essays
 * `Jim Whitehurst` The Open Organization: Igniting Passion and Performance
+* `Matt Taibbi, Mark Ames` The eXile: Sex, Drugs and Libel in the New Russia
+* `Maurer` The Big Con: The Story of the Confidence Man
 * `Noam Chomsky` Understanding Power
 * `Ray Kurzweil` How to Create a Mind
+* `Scott McCloud` Making Comics: Storytelling Secrets of Comics, Manga and Graphic Novels
+* `Ted Chiang` The Lifecycle of Software Objects
