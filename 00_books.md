@@ -7,7 +7,7 @@ This file is the ultimate list of books that I have read, that I'm reading curre
 ## Reading challenges
 
 * 2015: 18/25
-* 2016: 4/20
+* 2016: 5/20
 
 ## Books I have read
 
@@ -73,6 +73,7 @@ Don't judge me, I need something light to read sometimes.
 * `Atka Reid, Hana Schofield` Goodbye Sarajevo (★★★★★)
 * `Felicia Day` You're Never Weird on the Internet (Almost) (★★★★★)
 * `Henry Goldkamp` What The Hell is Saint Louis Thinking? (★★★★★)
+* `Nick Spalding` Life With No Breaks (★★★☆☆)
 * `Richard Dawkins` The God Delusion (★★★★★)
 
 ## Books I'm currently reading
