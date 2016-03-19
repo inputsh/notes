@@ -77,7 +77,8 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm currently reading
 
-* `Kass Morgan` The 100 (111/299)
+* `George Orwell` Nineteen Eighty-Four  (110/313)
+* `Njuz.net autori` Prava istorija sveta (94/143)
 
 ## Books I'm planning on reading
 
