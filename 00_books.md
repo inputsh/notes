@@ -7,7 +7,7 @@ This file is the ultimate list of books that I have read, that I'm reading curre
 ## Reading challenges
 
 * 2015: 18/25
-* 2016: 5/20
+* 2016: 6/20
 
 ## Books I have read
 
@@ -66,6 +66,7 @@ Don't judge me, I need something light to read sometimes.
 
 * `Marko Šelić Marčelo` Napet šou (★★★★★)
 * `Marko Šelić Marčelo` Zajedno sami (★★★★☆)
+* `Njuz.net autori` Prava istorija sveta (★★★★☆)
 * `Radoslav Dejanović` Umišljena inteligencija (★★★★☆)
 
 ### Miscellaneous
@@ -79,7 +80,6 @@ Don't judge me, I need something light to read sometimes.
 ## Books I'm currently reading
 
 * `George Orwell` Nineteen Eighty-Four  (110/313)
-* `Njuz.net autori` Prava istorija sveta (94/143)
 
 ## Books I'm planning on reading
 
