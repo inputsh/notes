@@ -2,16 +2,16 @@
 
 > After all any book is just a list of thoughts of another guy, who might be wrong.
 
-This file is the ultimate list of books that I have read, that I'm reading currently, and that I'm planning on reading in the future. So, in a way, this is my way of getting rid of GoodReads because... well, I hate its design.
+This file is the ultimate list of books that I have read, that I'm reading currently, and that I'm planning on reading in the future. So, in a way, this is my way of getting rid of GoodReads because... well, I hate its design and I don't think that there's any need to use a service that could be replaced almost fully by something so simple as a single text file.
+
+## Books I have read
+
+Of course, this is in no way the list of every book I have ever read. Just the list of books that I remember reading and the books that I have read since I started keeping this list.
 
 ## Reading challenges
 
 * 2015: 18/25
 * 2016: 6/20
-
-## Books I have read
-
-Of course, this is in no way the list of every book I have ever read. Just the list of books that I remember that I have read.
 
 ### Technology
 
