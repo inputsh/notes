@@ -79,7 +79,7 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm currently reading
 
-* `George Orwell` Nineteen Eighty-Four  (110/313)
+* `George Orwell` Nineteen Eighty-Four  (217/313)
 
 ## Books I'm planning on reading
 
@@ -88,7 +88,6 @@ Don't judge me, I need something light to read sometimes.
 * `Dan Riley` Generation Atheist
 * `Dean Baker` False Profits: Recovering from the Bubble Economy
 * `Finn Brunton, Helen Nissenbaum` Obfuscation: A User's Guide for Privacy and Protest
-* `George Orwell` 1984
 * `George Orwell` All Art is Propaganda: Critical Essays
 * `Jim Whitehurst` The Open Organization: Igniting Passion and Performance
 * `Matt Taibbi, Mark Ames` The eXile: Sex, Drugs and Libel in the New Russia
