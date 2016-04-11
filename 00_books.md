@@ -11,7 +11,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 ## Reading challenges
 
 * 2015: 18/25
-* 2016: 6/20
+* 2016: 7/20
 
 ### Technology
 
@@ -38,6 +38,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 ### Fiction
 
 * `George Orwell` Animal Farm (★★★★★)
+* `George Orwell` Nineteen Eighty-four (★★★★☆)
 * `George R.R. Martin` A Game of Thrones (A Song of Ice and Fire Series) (★★★☆☆)
 * `George R.R. Martin` A Clash of Kings (A Song of Ice and Fire Series) (★★★★☆)
 * `George R.R. Martin` The Armageddon Rag (★★★★★)
@@ -79,7 +80,7 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm currently reading
 
-* `George Orwell` Nineteen Eighty-Four  (217/313)
+*empty, for now*
 
 ## Books I'm planning on reading
 
