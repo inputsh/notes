@@ -27,6 +27,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 
 ### Futuristic
 
+* `Craig A. Falconer` Funscreen (★★★☆☆)
 * `Peter A. Bornstein` 2030 - Will Computers Become Human? (★★★☆☆)
 
 ### Productivity
