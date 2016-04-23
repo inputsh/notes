@@ -4,14 +4,31 @@
 
 This file is the ultimate list of books that I have read, that I'm reading currently, and that I'm planning on reading in the future. So, in a way, this is my way of getting rid of GoodReads because... well, I hate its design and I don't think that there's any need to use a service that could be replaced almost fully by something so simple as a single text file.
 
-## Books I have read
+## Table of Content
 
-Of course, this is in no way the list of every book I have ever read. Just the list of books that I remember reading and the books that I have read since I started keeping this list.
+* [Reading challenges](#reading-challenges)
+* [Books I have read](#books-i-have-read)
+  * [Technology](#technology)
+  * [Futuristic](#futuristic)
+  * [Productivity](#productivity)
+  * [Fiction](#fiction)
+  * [Science Fiction](#science-fiction)
+  * [Comics](#comics)
+  * [Young Adult](#young-adult)
+  * [Books written by Serbian / Bosnian / Croatian authors](#books-written-by-serbian--bosnian--croatian-authors)
+  * [Miscellaneous](#miscellaneous)
+* [Books I'm currently reading](#books-im-currently-reading)
+* [Books I'm planning on reading](#books-im-planning-on-reading)
+
 
 ## Reading challenges
 
 * 2015: 18/25
-* 2016: 7/20
+* 2016: 8/20
+
+## Books I have read
+
+Of course, this is in no way the list of every book I have ever read. Just the list of books that I remember reading and the books that I have read since I started keeping this list.
 
 ### Technology
 
@@ -81,7 +98,7 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm currently reading
 
-*empty, for now*
+* `Pieter Hintjens` Culture & Empire: Digital Revolution (140/652)
 
 ## Books I'm planning on reading
 
