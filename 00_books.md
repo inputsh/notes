@@ -98,7 +98,7 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm currently reading
 
-* `Pieter Hintjens` Culture & Empire: Digital Revolution (313/652)
+* `Pieter Hintjens` Culture & Empire: Digital Revolution (466/652)
 
 ## Books I'm planning on reading
 
