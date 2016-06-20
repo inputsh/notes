@@ -4,12 +4,15 @@ Big list of MOOCs that I have finished, am working on finishing at the moment, o
 
 ## Finished Courses
 
-#### Coursera
+#### Coursera / edX
 
 * [Malicious Software and its Underground Economy: Two Sides to Every Story](https://www.coursera.org/course/malsoftware) | University of London (Coursera) | Grade: 94.3% | [Certificate](https://r3bl.me/assets/certificate1.pdf)
 * [International Cyber Conflicts](https://www.coursera.org/learn/cyber-conflicts) | The State University of New York (Coursera) | Grade: 88% | Certificate unavailable<sup>1</sup>
+* [Introduction to Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x+1T2016/info) | The Linux Foundation (edX) | Grade: 100% | Certificate unavailable<sup>2</sup>
 
 <sup>1</sup> Purchasing a certificate wasn't worth it.
+
+<sup>2</sup> Can't afford to pay for a verified certificate at the moment.
 
 #### Cisco Networking Academy
 
@@ -29,7 +32,7 @@ Big list of MOOCs that I have finished, am working on finishing at the moment, o
 
 ## Courses in progress
 
-* [Introduction to Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x+1T2016/info) | The Linux Foundation (edX) | Module: 12/18
+*crickets*
 
 ## Courses I'm planning on taking
 
