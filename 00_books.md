@@ -24,7 +24,7 @@ This file is the ultimate list of books that I have read, that I'm reading curre
 ## Reading challenges
 
 * 2015: 18/25
-* 2016: 8/20
+* 2016: 10/20
 
 ## Books I have read
 
@@ -67,6 +67,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 * `Cory Doctorow` I, Robot (★★★★☆)
 * `Cory Doctorow` When Sysadmins Ruled the Earth (★★★★☆)
 * `Douglas Adams` The Hitchhiker's Guide to the Galaxy (★★★★★)
+* `Douglas Adams` The Restaurant at the End of the Universe (★★★★☆)
 * `Richard Matheson` I Am Legend (★★★☆☆)
 
 ### Comics
@@ -91,6 +92,7 @@ Don't judge me, I need something light to read sometimes.
 ### Miscellaneous
 
 * `Atka Reid, Hana Schofield` Goodbye Sarajevo (★★★★★)
+* `Eric Schulman` A Briefer History of Time (★★★☆☆)
 * `Felicia Day` You're Never Weird on the Internet (Almost) (★★★★★)
 * `Henry Goldkamp` What The Hell is Saint Louis Thinking? (★★★★★)
 * `Nick Spalding` Life With No Breaks (★★★☆☆)
