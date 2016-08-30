@@ -2,14 +2,13 @@
 
 > After all any book is just a list of thoughts of another guy, who might be wrong.
 
-This file is the ultimate list of books that I have read, that I'm reading currently, and that I'm planning on reading in the future. So, in a way, this is my way of getting rid of GoodReads because... well, I hate its design and I don't think that there's any need to use a service that could be replaced almost fully by something so simple as a single text file.
+This file is the ultimate list of books that I have read, and that I'm reading currently. So, in a way, this is my way of getting rid of GoodReads because... well, I I don't think that there's any need to use a service that could be replaced almost fully by something as simple as a single text file.
 
 ## Table of Content
 
 * [Reading challenges](#reading-challenges)
 * [Books I have read](#books-i-have-read)
   * [Technology](#technology)
-  * [Futuristic](#futuristic)
   * [Productivity](#productivity)
   * [Fiction](#fiction)
   * [Science Fiction](#science-fiction)
@@ -18,13 +17,11 @@ This file is the ultimate list of books that I have read, that I'm reading curre
   * [Books written by Serbian / Bosnian / Croatian authors](#books-written-by-serbian--bosnian--croatian-authors)
   * [Miscellaneous](#miscellaneous)
 * [Books I'm currently reading](#books-im-currently-reading)
-* [Books I'm planning on reading](#books-im-planning-on-reading)
-
 
 ## Reading challenges
 
 * 2015: 18/25
-* 2016: 10/20
+* 2016: 12/20
 
 ## Books I have read
 
@@ -41,10 +38,6 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 * `Sarah Jeong` The Internet of Garbage (★★★☆☆)
 * `Sylvie Devilette` Handbook For Bloggers And Cyber Dissidents (★★★☆☆)
 * `Uday Veer Singh` Immune Web (★☆☆☆☆)
-
-### Futuristic
-
-* `Craig A. Falconer` Funscreen (★★★☆☆)
 * `Peter A. Bornstein` 2030 - Will Computers Become Human? (★★★☆☆)
 
 ### Productivity
@@ -65,7 +58,9 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 ### Science Fiction
 
 * `Cory Doctorow` I, Robot (★★★★☆)
+* `Cory Doctorow` Little Brother (★★★★★)
 * `Cory Doctorow` When Sysadmins Ruled the Earth (★★★★☆)
+* `Craig A. Falconer` Funscreen (★★★☆☆)
 * `Douglas Adams` The Hitchhiker's Guide to the Galaxy (★★★★★)
 * `Douglas Adams` The Restaurant at the End of the Universe (★★★★☆)
 * `Richard Matheson` I Am Legend (★★★☆☆)
@@ -84,36 +79,22 @@ Don't judge me, I need something light to read sometimes.
 
 ### Books written by Serbian / Bosnian / Croatian authors
 
+* `Atka Reid, Hana Schofield` Goodbye Sarajevo (★★★★★)
 * `Marko Šelić Marčelo` Napet šou (★★★★★)
-* `Marko Šelić Marčelo` Zajedno sami (★★★★☆)
+* `Marko Šelić Marčelo` Zajedno sami (★★★★★)
 * `Njuz.net autori` Prava istorija sveta (★★★★☆)
 * `Radoslav Dejanović` Umišljena inteligencija (★★★★☆)
 
 ### Miscellaneous
 
-* `Atka Reid, Hana Schofield` Goodbye Sarajevo (★★★★★)
 * `Eric Schulman` A Briefer History of Time (★★★☆☆)
 * `Felicia Day` You're Never Weird on the Internet (Almost) (★★★★★)
+* `Lawrence Friedl, Karen Yuen` Earth as Art (★★★★☆)
 * `Henry Goldkamp` What The Hell is Saint Louis Thinking? (★★★★★)
 * `Nick Spalding` Life With No Breaks (★★★☆☆)
 * `Richard Dawkins` The God Delusion (★★★★★)
 
 ## Books I'm currently reading
 
+* `Joe Bageant` Deer Hunting with Jesus (210/419)
 * `Pieter Hintjens` Culture & Empire: Digital Revolution (466/652)
-
-## Books I'm planning on reading
-
-* `Andrew Hodges` Alan Turing: The Enigma
-* `Carl Sagan, Ann Druyan`  The Varieties of Scientific Experience: A Personal View of the Search for God
-* `Dan Riley` Generation Atheist
-* `Dean Baker` False Profits: Recovering from the Bubble Economy
-* `Finn Brunton, Helen Nissenbaum` Obfuscation: A User's Guide for Privacy and Protest
-* `George Orwell` All Art is Propaganda: Critical Essays
-* `Jim Whitehurst` The Open Organization: Igniting Passion and Performance
-* `Matt Taibbi, Mark Ames` The eXile: Sex, Drugs and Libel in the New Russia
-* `Maurer` The Big Con: The Story of the Confidence Man
-* `Noam Chomsky` Understanding Power
-* `Ray Kurzweil` How to Create a Mind
-* `Scott McCloud` Making Comics: Storytelling Secrets of Comics, Manga and Graphic Novels
-* `Ted Chiang` The Lifecycle of Software Objects
