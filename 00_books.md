@@ -31,6 +31,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 
 * `Aaron Swartz` The Boy Who Could Change The World: The Writings of Aaron Swartz (★★★★☆)
 * `Andrew Keen` Digital Vertigo: How Today's Online Social Revolution is Dividing, Diminishing and Disorienting Us (★★★★☆)
+* `Bryan Lunduke` Linux is Badass (★★★☆☆)
 * `Cory Doctorow` Content (★★★★☆)
 * `Eli Parser` The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think (★★★★★)
 * `Ivo Quartiroli` Facebook Logout: Experiences and Reasons to Leave it (★★☆☆☆)
