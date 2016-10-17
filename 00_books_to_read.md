@@ -2,15 +2,12 @@
 
 ## Books that I'm going to read next
 
-* `Tobias Klein` A Bug Hunter's Diary [security, pentesting]
-* `Mohit` Python Penetration Testing Essentials [security, pentesting]
 * `Noam Chomsky` Understanding Power [media]
 * `Bruce Schneier` Data and Goliath [technology, surveillance]
 * `Michael Weiss, Hassan Hassan` ISIS: Inside the Army of Terror [terrorism, security]
 * `Neal Stephenson` Cryptonomicon
 * `Lawrence Lessig` Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity [open source, media]
 * `Chris Hadfield` An Astronaut's Guide to Life on Earth
-* `Dan Brown` Digital Fortress [novel, thriller]
 * `Andreas C. Mueller, Sarah Guido` Introduction to Machine Learning with Python [machine learning, programming]
 * `Sara Nović` Girl at War
 * `David Mitchell` Cloud Atlas [novel]

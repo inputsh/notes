@@ -38,6 +38,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 * `Jason Hibbets` The foundations for an open source city (★★★★★)
 * `Sarah Jeong` The Internet of Garbage (★★★☆☆)
 * `Sylvie Devilette` Handbook For Bloggers And Cyber Dissidents (★★★☆☆)
+* `Tobias Klein` A Bug Hunter's Diary (★★★★☆)
 * `Uday Veer Singh` Immune Web (★☆☆☆☆)
 * `Peter A. Bornstein` 2030 - Will Computers Become Human? (★★★☆☆)
 
@@ -46,6 +47,10 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 * `Alex Wild` Productivity Hacks Unleashed (★☆☆☆☆)
 * `John Ramos` Super Student Roadmap (★★★★★)
 * `Scott H. Young` How to Get More From Life (★★★★☆)
+
+### Nonfiction
+
+* `Joe Bageant` Deer Hunting with Jesus (★★★☆☆)
 
 ### Fiction
 
@@ -97,5 +102,6 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm currently reading
 
-* `Joe Bageant` Deer Hunting with Jesus (210/419)
 * `Pieter Hintjens` Culture & Empire: Digital Revolution (466/652)
+* `Mohit` Python Penetration Testing Essentials (52/178)
+* `Dan Brown` Digital Fortress (300/579)
