@@ -36,11 +36,12 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 * `Eli Parser` The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think (★★★★★)
 * `Ivo Quartiroli` Facebook Logout: Experiences and Reasons to Leave it (★★☆☆☆)
 * `Jason Hibbets` The foundations for an open source city (★★★★★)
+* `Peter A. Bornstein` 2030 - Will Computers Become Human? (★★★☆☆)
 * `Sarah Jeong` The Internet of Garbage (★★★☆☆)
 * `Sylvie Devilette` Handbook For Bloggers And Cyber Dissidents (★★★☆☆)
 * `Tobias Klein` A Bug Hunter's Diary (★★★★☆)
 * `Uday Veer Singh` Immune Web (★☆☆☆☆)
-* `Peter A. Bornstein` 2030 - Will Computers Become Human? (★★★☆☆)
+* `Vincent Jousse` Vim for Humans (★☆☆☆☆)
 
 ### Productivity
 
