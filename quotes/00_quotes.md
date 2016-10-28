@@ -3,6 +3,7 @@
 This is the list of quotes where I find the inspiration that drives me forward.
 
 * **Arnold H. Glasgow:** Success is not spontaneous combustion. You need to set yourself on fire.
+* **Barry Schwartz:** But in addition to creating things, science creates concepts, ways of understanding the world and our place in it, that have an enormous effect on how we think and act. If we understand birth defects as acts of God, we pray. If we understand them as acts of chance, we grit our teeth and roll the dice. If we understand them as the product of prenatal neglect, we take better care of pregnant women.
 * **Brian Benchoff:** For every computer error, there are two human errors, and one of them is blaming the computer.
 * **Dan Brown:** The only difference between you and God is that you have forgotten you are divine.
 * **Dante Alighieri:** The path to paradise begins in hell.

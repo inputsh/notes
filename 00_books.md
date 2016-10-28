@@ -10,6 +10,7 @@ This file is the ultimate list of books that I have read, and that I'm reading c
 * [Books I have read](#books-i-have-read)
   * [Technology](#technology)
   * [Productivity](#productivity)
+  * [Nonfiction](#nonfiction)
   * [Fiction](#fiction)
   * [Science Fiction](#science-fiction)
   * [Comics](#comics)
@@ -21,7 +22,7 @@ This file is the ultimate list of books that I have read, and that I'm reading c
 ## Reading challenges
 
 * 2015: 18/25
-* 2016: 12/20
+* 2016: 18/20
 
 ## Books I have read
 
@@ -51,7 +52,11 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 
 ### Nonfiction
 
+* `Barry Schwartz` Why We Work (★★☆☆☆)
 * `Joe Bageant` Deer Hunting with Jesus (★★★☆☆)
+* `Felicia Day` You're Never Weird on the Internet (Almost) (★★★★★)
+* `Nick Spalding` Life With No Breaks (★★★☆☆)
+* `Richard Dawkins` The God Delusion (★★★★★)
 
 ### Fiction
 
@@ -95,11 +100,8 @@ Don't judge me, I need something light to read sometimes.
 ### Miscellaneous
 
 * `Eric Schulman` A Briefer History of Time (★★★☆☆)
-* `Felicia Day` You're Never Weird on the Internet (Almost) (★★★★★)
 * `Lawrence Friedl, Karen Yuen` Earth as Art (★★★★☆)
 * `Henry Goldkamp` What The Hell is Saint Louis Thinking? (★★★★★)
-* `Nick Spalding` Life With No Breaks (★★★☆☆)
-* `Richard Dawkins` The God Delusion (★★★★★)
 
 ## Books I'm currently reading
 
