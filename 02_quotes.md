@@ -21,6 +21,7 @@ If you're the copyright holder of any of these files and you want this content r
 
 This is the list of quotes where I find the inspiration that drives me forward.
 
+* **Aaron Loeb:** The art of good headline writing and image selection in order to get someone to click and go to a website is usually called “clickbaiting,” but I think we should call it “bullshit curation.”
 * **Arnold H. Glasgow:** Success is not spontaneous combustion. You need to set yourself on fire.
 * **Barry Schwartz:** But in addition to creating things, science creates concepts, ways of understanding the world and our place in it, that have an enormous effect on how we think and act. If we understand birth defects as acts of God, we pray. If we understand them as acts of chance, we grit our teeth and roll the dice. If we understand them as the product of prenatal neglect, we take better care of pregnant women.
 * **Brian Benchoff:** For every computer error, there are two human errors, and one of them is blaming the computer.
@@ -41,11 +42,16 @@ This is the list of quotes where I find the inspiration that drives me forward.
 * **Michael Jordan:** I can accept failure, everyone fails at something. But I can't accept not trying.
 * **Muhammed Ali:** Don't count the days, make the days count.
 * **Napoleon Hill:** Patience, persistence and perspiration make an unbeatable combination for success.
+* **Nick Gillespie:** Public debate, it seems, is no longer a means by which to search for truth, knowledge, and common ground, but only a venue for speech that expresses unthinking solidarity with whatever you already believe.
 * **Oscar Wilde:** Give a man mask and he'll tell you the truth.
 * **Quinn Norton:** Over time, all data approaches deleted, or public.
 * **Richard Jeni:** Honesty is the key to a relationship. If you can fake that, you're in.
 * **Ser Tim Berners-Lee:** Aaron is dead. Wanderers in this crazy world, we have lost a mentor, a wise elder. Hackers for right, we are one down, we have lost one of our own. Nurturers, carers, listeners, feeders, parents all, we have lost a child. Let us all weep.
 * **Will Smith:** You don't try to build a wall. You don't set out to build a wall. You don't say, "I'm gonna build the biggest baddest greatest wall, that's ever been build,", you don't start there. You say, "I'm gonna lay this brick, as perfectly as a brick can be laid," and you do that, every single day. And soon you have a wall.
+
+### Quotes in Bosnian/Serbian/Croatian
+
+* **Black Hole:** Ako se neko pita „šta koj moj hadroni imaju veze sa mnom“, treba reći da su neki hadroni barioni. Ako je sad neko zapenio „šta bre barioni sad koj moj, ne izmišljaj“, treba reći da su neki barioni protoni i neutroni, a većina vidljive materije u kosmosu je izgrađena od njih, pa i ti, hobgobline jedan, što se pitaš šta bre barioni, i ti si jebeni barion.
 
 ## Le tumblr quotes
 
