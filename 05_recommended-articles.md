@@ -6,6 +6,22 @@ Alternatively, you could just [follow me on Pocket](https://getpocket.com/@r3bl)
 
 P.S. the list of articles I wrote for various websites can be seen [on my website](https://r3bl.me).
 
+## Table of Content
+
+* [English](#english)
+  * [Artificial Intelligence / Futurism](#artificial-intelligence-futurism)
+  * [Free Culture](#free-culture)
+  * [Technology](#technology)
+  * [Productivity](#productivity)
+  * [Psychology](#psychology)
+  * [Music](#music)
+  * [Science](#science)
+  * [Miscellaneous](#miscellaneous)
+* [Serbian / Bosnian / Croatian](#serbian-bosnian-croatian)
+  * [Politika i društvo](#politika-i-dru-tvo)
+  * [Tehnologija](#tehnologija)
+  * [Ostalo](#ostalo)
+
 ## English
 
 ### Artificial Intelligence / Futurism
