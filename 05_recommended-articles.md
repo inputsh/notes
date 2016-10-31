@@ -53,6 +53,9 @@ P.S. the list of articles I wrote for various websites can be seen [on my websit
 * [**A Declaration of the Independence of Cyberspace**](https://www.eff.org/cyberspace-independence)
     * **Author:** John Perry Barlow
     * **Date:** February 8th, 1996
+* [**Against Minimalism**](https://bullshit.ist/against-minimalism-1be2c4abadbf)
+    * **Author:** Jeff Kunzler
+    * **Date:** September 8th, 2016
 * [**At What Point Will The Next Generation Kill The Copyright Monopoly Altogether?**](http://torrentfreak.com/kill-the-copyright-monopoly-altogether-130915/)
     * **Author:** Rick Falkvinge
     * **Date:** September 15th, 2013
@@ -116,12 +119,18 @@ P.S. the list of articles I wrote for various websites can be seen [on my websit
 * [**The US government has betrayed the internet. We need to take it back**](http://www.theguardian.com/commentisfree/2013/sep/05/government-betrayed-internet-nsa-spying)
     * **Author:** Bruce Schneier
     * **Date:** September 5th, 2013
+* [**The US has Gone F&*%ing Mad**](https://medium.com/@jamesallworth/the-u-s-has-gone-f-ing-mad-52e525f76447)
+    * **Author:** James Allworth
+    * **Date:** February 22nd, 2016
 * [**The Useless Agony of Going Offline**](http://www.newyorker.com/books/page-turner/the-useless-agony-of-going-offline)
     * **Author:** Matthew J. X. Malady
     * **Date:** January 27th, 2016
 * [**Towards the Perfect Coin Flip: The NIST Randomness Beacon**](http://hackaday.com/2014/12/19/nist-randomness-beacon/)
     * **Author:** Elliot Williams
     * **Date:** December 19th, 2014
+* [**Why Can't We Read Anymore?**](https://medium.com/@hughmcguire/why-can-t-we-read-anymore-503c38c131fe)
+    * **Author:** Hugh McGuire
+    * **Date:** April 22nd, 2015
 
 ### Productivity
 
@@ -197,6 +206,9 @@ P.S. the list of articles I wrote for various websites can be seen [on my websit
 * [**Russian Purge: Putin Doesn’t Need to Censor Books. Publishers Do It for Him.**](https://theintercept.com/2016/02/15/putin-doesnt-need-to-censor-books-publishers-do-it-for-him/)
     * **Author:** Masha Gessen
     * **Date:** February 15th, 2016
+* [**These photos are why I’m trapped in Tokyo forever now**](https://medium.com/@damjancvetkovdimitrov/these-photos-are-why-i-m-trapped-in-tokyo-forever-now-1a0ea980bcc5)
+    * **Author:** Nina Geometrieva and Damjan Cvetkov-Dimitrov
+    * **Date:** November 25th, 2015
 * [**The Secret Lives of Tumblr Teens**](https://newrepublic.com/article/129002/secret-lives-tumblr-teens)
     * **Author:** Elspeth Reeve
     * **Date:** February 17th, 2016
