@@ -1,5 +1,9 @@
 # Articles / Posts to Read
 
+**Warning:** I've deprecated this list on favor of [Pocket](https://getpocket.com/)
+
+---
+
 This is the list of blogs that I'm planning on reading. The list consists of articles that I found interesting when I searched through the archive.
 
 ## Aaron Swartz's Blog
