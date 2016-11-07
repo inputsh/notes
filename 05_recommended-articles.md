@@ -101,6 +101,9 @@ P.S. the list of articles I wrote for various websites can be seen [on my websit
 * [**Markdown throwdown: what happens when FOSS software gets corporate backing?**](http://arstechnica.com/information-technology/2014/10/markdown-throwdown-what-happens-when-foss-software-gets-corporate-backing/) - The title says it all. If you ever wanted why there are so many markdown forks available, this is the post you should be reading right now.
     * **Author:** Scott Gilbertson
     * **Date:** October 5th, 2014
+* [**Mark Zuckerberg is a hypocrite - Facebook has destroyed the open web**](http://www.ibtimes.co.uk/mark-zuckerberg-hypocrite-facebook-has-destroyed-open-web-1559298)
+    * **Author:** Hossein Derakhshan
+    * **Date:** May 10th, 2016
 * [**Messaging is just getting started**](https://blog.intercom.com/messaging-apps-just-getting-started/)
     * **Author:** Emmet Connolly
     * **Date:** July 12th, 2015
