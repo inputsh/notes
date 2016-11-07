@@ -2,6 +2,7 @@
 
 ## Books that I'm going to read next
 
+* `Bruce Bueno de Mesquita` The Dictator's Handbook
 * `Noam Chomsky` Understanding Power [media]
 * `Bruce Schneier` Data and Goliath [technology, surveillance]
 * `Michael Weiss, Hassan Hassan` ISIS: Inside the Army of Terror [terrorism, security]

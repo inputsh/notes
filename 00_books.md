@@ -22,7 +22,7 @@ This file is the ultimate list of books that I have read, and that I'm reading c
 ## Reading challenges
 
 * 2015: 18/25
-* 2016: 18/20
+* 2016: 19/20
 
 ## Books I have read
 
@@ -47,6 +47,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 ### Productivity
 
 * `Alex Wild` Productivity Hacks Unleashed (★☆☆☆☆)
+* `Leo Babauta` Zen to Done (★★★★☆)
 * `John Ramos` Super Student Roadmap (★★★★★)
 * `Scott H. Young` How to Get More From Life (★★★★☆)
 
