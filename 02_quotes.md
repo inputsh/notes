@@ -15,7 +15,8 @@ If you're the copyright holder of any of these files and you want this content r
 * [Content (by Cory Doctorow)](#content-by-cory-doctorow)
 * [Internet of Garbage (by Sarah Jeong)](#internet-of-garbage-by-sarah-jeong)
 * [Quotes from Aaron Swartz's blog](#quotes-from-aaron-swartzs-blog)
-* [The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think (by Eli Parser)](#the-filter-bubble-how-the-new-personalized-web-is-changing-what-we-read-and-how-we-think-by-eli-parser)
+* [The Filter Bubble (by Eli Parser)](#the-filter-bubble-by-eli-parser)
+* [Algorithms to Live By (by Brian Christian and Tom Griffiths)](#algorithms-to-live-by-by-brian-christian-and-tom-griffiths)
 
 ## Le random quotes from the interwebz
 
@@ -32,6 +33,8 @@ This is the list of quotes where I find the inspiration that drives me forward.
 * **Friedrich Nietzsche:** In individuals, insanity is rare; but in groups, parties, nations, and epochs it is the rule.
 * **Henry Davis Thoreau:** What you get by achieving your goals is not as important as what you become by achieving them.
 * **Jim Morrison:** There can't be any large-scale revolution until there's a personal revolution, on an individual level. It's got to happen inside first.
+* **Jon Westenberg:** Don’t hide your passions. They’re the key to doing awesome shit.
+* **Jon Westenberg:** Life is too short to waste while you lock yourself away and pretend your past and your passions never existed. So get out there. Do you. And be a fucking weirdo.
 * **Joseph Brodsky:** There are worse crimes than burning books. One of them is not reading them.
 * **latin:** Imperare sibi maximum imperium est. - To rule yourself is the ultimate power. Vladati nad sobom najveća je vlast.
 * **Lucius Annaeus Seneca:** Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful.
@@ -48,6 +51,7 @@ This is the list of quotes where I find the inspiration that drives me forward.
 * **Richard Jeni:** Honesty is the key to a relationship. If you can fake that, you're in.
 * **Ser Tim Berners-Lee:** Aaron is dead. Wanderers in this crazy world, we have lost a mentor, a wise elder. Hackers for right, we are one down, we have lost one of our own. Nurturers, carers, listeners, feeders, parents all, we have lost a child. Let us all weep.
 * **Will Smith:** You don't try to build a wall. You don't set out to build a wall. You don't say, "I'm gonna build the biggest baddest greatest wall, that's ever been build,", you don't start there. You say, "I'm gonna lay this brick, as perfectly as a brick can be laid," and you do that, every single day. And soon you have a wall.
+* **/u/ryans01:** Rule numero uno - There are no more zero days. What's a zero day? A zero day is when you don't do a single fucking thing towards whatever dream or goal or want or whatever that you got going on. No more zeros. I'm not saying you gotta bust an essay out everyday, that's not the point. The point I'm trying to make is that you have to make yourself, promise yourself, that the new SYSTEM you live in is a NON-ZERO system. Didnt' do anything all fucking day and it's 11:58 PM? Write one sentence. One pushup. Read one page of that chapter. One. Because one is non zero. You feel me? When you're in the super vortex of being bummed your pattern of behaviour is keeping the vortex goin, that's what you're used to. Turning into productivity ultimate master of the universe doesn't happen from the vortex. It happens from a massive string of CONSISTENT NON ZEROS. That's rule number one. Do not forget.
 
 ### Quotes in Bosnian/Serbian/Croatian
 
@@ -58,6 +62,7 @@ This is the list of quotes where I find the inspiration that drives me forward.
 * Our entire universe is probably in a tiny glass jar somewhere placed on a shelf in an alien child's room as a science fair project that got a C-.
 * Everyone should smile. Life really isn't that serious. We make it hard. The sun rises. The sun sets. We just tend to complicate the process.
 * They wanna see you do good, but never better than them. Remember that.
+* This is not the end. Death marks the beginning of a new life.
 
 ## George Carlin quotes
 
@@ -191,7 +196,7 @@ The price the guests are unconsciously paying is that they are giving away their
 * **Microsoft's intended** $8.5 billion **acquisition of Skype**, announced in May 2011 (...) is **an attempt to socialize its Internet business**. This acquisition seeks to leverage Skype's active 145 million users into a Microsoft centric social network that will **maintain the company's relevance in the social media age**.
 * Has _Nineteen Eighty-four_ finally arrived on all of our screens?
 
-### Content (by Cory Doctorow)
+## Content (by Cory Doctorow)
 
 * Bruce Schneier has said, "Making bits harder to copy is like making water that's less wet."
 * Globally speaking, if your country imports sugar and exports sugar cane, chances are you're poor. If your country imports wood and sells paper, chances are you're rich.
@@ -203,13 +208,13 @@ The price the guests are unconsciously paying is that they are giving away their
 * Brook's-law parallel: "Adding more users to a social network increases the probability that it will put you in an awkward social circumstance."
 * In the real world, we don't articulate our social networks. Imagine how creepy it would be to wander into a co-worker's cubicle and discover the wall covered with tiny photos of everyone in the office, ranked by "friend" and "foe," with the top eight friends elevated to a small shrine decorated with Post-It roses and hearts.
 
-### Internet of Garbage (by Sarah Jeong)
+## Internet of Garbage (by Sarah Jeong)
 
 * The public's understanding of speech online has undergone a serious paradigm shift. Even in tech-centric communities generally supportive of "free speech" on the Internet, there is a pervasive feeling that harassment must be rooted out and solved. Anonimity and freedom of speech have become bad words, the catchphrases of an old guard that refuses to open its eyes to a crisis for the Internet.
 * The Internet isn't breaking. Beneath the Wikipedias and Facebooks and YouTubes and other shiny repositories of information, community and culture — the Internet is, and always has been, mostly garbage.
 * [fight against garbage] is a ranging war that the average user gives little thought to, because, well, the anti-spammers are winning. Emails go through (mostly). Inboxes aren't hopelessly clogged. The Internet, overall, is operational.
 
-### Quotes from Aaron Swartz's blog
+## Quotes from Aaron Swartz's blog
 
 From [I Hate the News](http://www.aaronsw.com/weblog/hatethenews):
 
@@ -232,7 +237,7 @@ Talks that are too good to take some quotes out of them because they are perfect
 
 * [F2C2012: Aaron Swartz keynote - "How we stopped SOPA"](https://www.youtube.com/watch?v=Fgh2dFngFsg)
 
-### The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think (by Eli Parser)
+## The Filter Bubble (by Eli Parser)
 
 * The new Internet doesn't just know you're a dog; it knows your breed and wants to sell you a bowl of premium kibble.
 * When I interviewed Jonathan McPhie, Google's point man on search personalization, he suggested that it was nearly impossible to guess how the algorithms would shape the experience of any given user. There were simply too many variables and inputs to track.
@@ -266,3 +271,19 @@ Talks that are too good to take some quotes out of them because they are perfect
 * Why _should_ Web sites look the same to every viewer of customer? Different people don't respond only to different products — they respond to different design sensibilities, different colors, even different types of product descriptions.
 * We ought to be able to say, "You're wrong. Perhaps I used to be a surfer, or a fan of comics, or a Democrat, but I'm not any more."
 * As billions come online in India and Brazil and Africa, the Internet is transforming into a truly global place. Increasingly, it will be the place where we live our lives. But in the end, a small group of American companies may unilaterally dictate how billions of people work, play, communicate, and understand the world. Protecting the early vision of radical connectedness and user control should be an urgent priority to all of us.
+
+## Algorithms to Live By (by Brian Christian and Tom Griffiths)
+
+* Even in cases where life is too messy for us to expect a strict numerical analysis or a ready answer, using intuitions and concepts honed on the simpler forms of these problems offers us a way to understand the key issues and make progress.
+* Over the past decade or two, behavioral economics has told a very particular story about human beings: that we are irrational and error-prone, owing in large part to the buggy, idiosyncratic hardware of the brain.
+* Assuming that his search would run from ages eighteen to forty, the 37% Rule gave age 26.1 years as the point at which to switch from looking to leaping.
+* We don’t have an objective or preexisting sense of what makes for a good or a bad applicant; moreover, when we compare two of them, we know which of the two is better, but not by how much. It’s this fact that gives rise to the unavoidable “look” phase, in which we risk passing up a superb early applicant while we calibrate our expectations and standards. Mathematicians refer to this genre of optimal stopping problems as “no-information games.”
+* Your stomach rumbles. Do you go to the Italian restaurant that you know and love, or the new Thai place that just opened up? Do you take your best friend, or reach out to a new acquaintance you’d like to get to know better? This is too hard — maybe you’ll just stay home. Do you cook a recipe that you know is going to work, or scour the Internet for new inspiration? Never mind, how about you just order a pizza? Do you get your “usual,” or ask about the specials? You’re already exhausted before you get to the first bite. And the thought of putting on a record, watching a movie, or reading a book — which one? — no longer seems quite so relaxing.
+
+## Zen to Done (by Leo Babauta)
+
+* Why “Zen To Done”? Well, first off, the blog is called Zen Habits, and “Habits To Done” doesn’t sound cool enough to me.
+* Each of these habits should be learned and practiced one at a time if possible, or 2-3 at a time at the most. Focus on your habit change for 30 days, then move on to the next.
+* Three MITs (**m**ost **i**mportant **t**asks) per day and three per week. Constantly reviewing the tasks, having daily/weekly reviews with myself about the tasks that I have set.
+* If the task will take 2 minutes or less, just do it rather than adding it to your to-do list. If it will take more than 2 minutes, add it immediately to your to-do list to do later.
+* Keep flat surfaces clear. Never toss something on a countertop, table, desktop, bed, dresser top, coffee table, or the floor. If you do, catch yourself, and find another home for it. In fact, while you’re at it, clear off all these flat surfaces, tossing half the stuff and finding homes for the rest. Ahhh! Isn’t that nice? Who knew there was a desk under there?
