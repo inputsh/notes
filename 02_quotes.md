@@ -287,3 +287,35 @@ Talks that are too good to take some quotes out of them because they are perfect
 * Three MITs (**m**ost **i**mportant **t**asks) per day and three per week. Constantly reviewing the tasks, having daily/weekly reviews with myself about the tasks that I have set.
 * If the task will take 2 minutes or less, just do it rather than adding it to your to-do list. If it will take more than 2 minutes, add it immediately to your to-do list to do later.
 * Keep flat surfaces clear. Never toss something on a countertop, table, desktop, bed, dresser top, coffee table, or the floor. If you do, catch yourself, and find another home for it. In fact, while you’re at it, clear off all these flat surfaces, tossing half the stuff and finding homes for the rest. Ahhh! Isn’t that nice? Who knew there was a desk under there?
+
+## Stealing the Network: How to Own the Box
+
+* You would not describe a criminal auto mechanic as simply a mechanic, and you shouldn’t do the same with a hacker, either.
+* I love doing disassembly. I don’t even miss the sleep for the first 20 hours or so. After that, I’m usually done (well, done enough), or I need to grab a few hours before I start again. I’m past 30 years old— too old to go 48 hours anymore.
+* An idea pops into her head when two formerly unrelated synapses made a sudden decision to join their forces: Douglas Adams should have made spaceships travel by 0day exploits instead of bad news.
+* Kiss a politically incorrect place of your choice on my body.
+* Dizzy hates flying around. Not that he is afraid of flying itself; that’s actually something he enjoys, but it’s the process of getting there.You’re standing in more lines than are required in some poor countries to get your food vouchers. Your stuff is taken apart several times, just to make sure you aren’t a terrorist. And onboard, it’s not a bit better. Just to make sure it doesn’t end there, you need to hunt down your luggage on arrival. It’s even worse on international flights, when you’re required to tell the immigration officer why you’re going to spend money in his country and why you sure as hell will leave again when your return flight is due. But the worst thing about all the airlines and airports is the unbelievable amount of lies. Every “Hope you enjoyed …” is a slap in the face of the passenger. Actually, you could die of starvation and rot away right there in front of the gold members lounge, and nobody would care.
+* He can’t believe it. After all, bszh.edu is not interesting computing-wise. Heck, if they had anything interesting on their boxes, Dizzy would know about it; well, and download it, too.
+* She does him the favor of putting together a Perl script that will automatically send the right requests when called with start and end times on the command line—much easier to use than grabbing the mouse or fingering around with the little rubber pointer control element on laptops, commonly referred to as clitoris.
+
+>	* “Do you accept this woman to be your lawfully wedded wife?”
+>	* “I do.”
+>	* “You may share your root password.”
+>	* “l1ve-n00d-girlz-unite!”
+>	* “su –l”
+
+> He calls these “The Ten Immutable Laws of Security.”They are:
+* Law #1: If a bad guy can persuade you to run his program on your computer, it’s not your computer anymore.
+* Law #2: If a bad guy can alter the operating system on your computer, it’s not your computer anymore.
+* Law #3: If a bad guy has unrestricted physical access to your computer, it’s not your computer anymore.
+* Law #4: If you allow a bad guy to upload programs to your Web site, it’s
+	not your Web site any more.
+* Law #5:Weak passwords trump strong security.
+* Law #6: A machine is only as secure as the administrator is trustworthy.
+* Law #7: Encrypted data is only as secure as the decryption key.
+* Law #8: An out-of-date virus scanner is only marginally better than no
+	virus scanner at all.
+* Law #9: Absolute anonymity isn’t practical, in real life or on the Web.
+* Law #10:Technology is not a panacea.
+* _The full list (with explanations for what each rule means) can be found at
+	www.microsoft.com/technet/columns/security/10imlaws.asp._
