@@ -23,7 +23,7 @@ This file is the ultimate list of books that I have read, and that I'm reading c
 
 * 2015: 18/25
 * 2016: 22/20
-* 2017: 1/25
+* 2017: 2/25
 
 ## Books I have read
 
@@ -105,12 +105,13 @@ Don't judge me, I need something light to read sometimes.
 ### Miscellaneous
 
 * `Eric Schulman` A Briefer History of Time (★★★☆☆)
+* `Johnny B. Truant` The Universe Doesn't Give a Flying Fuck About You (★★☆☆☆)
 * `Lawrence Friedl, Karen Yuen` Earth as Art (★★★★☆)
 * `Henry Goldkamp` What The Hell is Saint Louis Thinking? (★★★★★)
 
 ## Books I'm currently reading
 
-* `Jeremy Clarkson` As I Was Saying . . . (145/336)
+* `Jeremy Clarkson` As I Was Saying . . . (228/336)
 * `Pieter Hintjens` Culture & Empire: Digital Revolution (466/652)
 * `Mohit` Python Penetration Testing Essentials (52/178)
 * `Dan Brown` Digital Fortress (300/579)

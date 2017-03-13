@@ -3,12 +3,15 @@
 ## Books that I'm going to read next
 
 * `Bruce Bueno de Mesquita` The Dictator's Handbook
+* `Cory Doctorow` Information Doesn't Want to Be Free: Laws for the Internet Age
+* `Ted Chiang` Stories of Your Life and Others
+* `Lee Harper` To Kill a Mockingbird
+* `Chris Hadfield` An Astronaut's Guide to Life on Earth
 * `Noam Chomsky` Understanding Power [media]
 * `Bruce Schneier` Data and Goliath [technology, surveillance]
 * `Michael Weiss, Hassan Hassan` ISIS: Inside the Army of Terror [terrorism, security]
 * `Neal Stephenson` Cryptonomicon
 * `Lawrence Lessig` Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity [open source, media]
-* `Chris Hadfield` An Astronaut's Guide to Life on Earth
 * `Andreas C. Mueller, Sarah Guido` Introduction to Machine Learning with Python [machine learning, programming]
 * `Sara Nović` Girl at War
 * `David Mitchell` Cloud Atlas [novel]
@@ -21,7 +24,6 @@
 * `George Orwell` All Art is Propaganda: Critical Essays [media]
 * `Jonathan L. Zittrain` The Future of the Internet and How to Stop It
 * `Finn Brunton, Helen Nissenbaum` Obfuscation: A User's Guide for Privacy and Protest
-* `Harold Bloom` Kurt Vonnegut's Cat's Cradle
 
 ## Books to Consider Adding to To-Read List
 
