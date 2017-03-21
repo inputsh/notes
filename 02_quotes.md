@@ -17,6 +17,7 @@ If you're the copyright holder of any of these files and you want this content r
 * [Quotes from Aaron Swartz's blog](#quotes-from-aaron-swartzs-blog)
 * [The Filter Bubble (by Eli Parser)](#the-filter-bubble-by-eli-parser)
 * [Algorithms to Live By (by Brian Christian and Tom Griffiths)](#algorithms-to-live-by-by-brian-christian-and-tom-griffiths)
+* [Zen to Done (by Leo Babauta)](#zen-to-done-by-leo-babauta)
 
 ## Le random quotes from the interwebz
 
@@ -319,3 +320,14 @@ Talks that are too good to take some quotes out of them because they are perfect
 * Law #10:Technology is not a panacea.
 * _The full list (with explanations for what each rule means) can be found at
 	www.microsoft.com/technet/columns/security/10imlaws.asp._
+
+## As I Was Saying... (by Jeremy Clarkson)
+
+* By and large, the world seems to have sorted out most of its boundary disputes. Yes, there's still a bit of argy-bargy in the south Atlantic and the Palestinians would argue that their allotment is a bit meagre. But even in the former Yugoslavia new nations can play football against one another without having to dig a mass grave afterwards.
+* I'm constantly being hauled over the coals in the Daily Mail and in the Daily Star and the Mirror for all sorts of things. Calling Gordon Brown a one-eyed Scottish idiot. Saying public sector workers should be executed. Sparking fury with fox enthusiasts. I'm portrayed as an evil, racist, homophobic misogynist who goes through life stabbing baby badgers for fun. And I've worked out that it makes no difference. Taxi drivers still pick me up. People still watch my television shows. My books aren't remaindered for weeks; sometimes months. That's because the endless criticism is just a background hum.
+* Often when I am interviewing someone on Top Gear, the audience bursts into peals of laughter and I have no idea why, because I simply haven't heard what the person just said. My elder daughter, being a teenager, speaks at 5,000 words a minute, and while I know that some of those words are 'like' and 'I'm not even joking', the rest, I'm afraid, are just noises. It's like listening to a goose, most of the time.
+* This entire article: http://www.thesundaytimes.co.uk/sto/comment/columns/jeremyclarkson/article1387530.ece
+* You simply don’t know any more when you’ve passed from France into Belgium and the only way you know you’ve gone from Italy into Austria is because there’s no litter, or graffiti, or untidiness of any kind. It’s like you’ve gone from a Roman orgy into a Victorian lady’s underwear drawer.
+* I encountered a problem with this sort of thing recently while skiing with a charming Dutch family in the Alps. Keen to let them know that I paid attention to their ways and their culture, I described someone who had queue-barged us as a ‘swaffelaar’. It’s a word that has no equivalent in English because ‘swaffelen’ means ‘to bash one’s penis against the Taj Mahal’.
+* This is the great thing about small countries such as Norway. The chances are you were at school with the prime minister, and that you live next door to the chap in charge of transport. So if you run over a pothole on your way home, you can pop round and ask him to fix it. This means the politicians are truly accountable. They know that if they have taken all of your money, they had damn well better do a good job when it comes to spending it. Or you’re going to poke them in the eye at the supermarket next weekend.
+* I’ve never really bothered with cooking in the past because it would have meant using a recipe book. And as a man I can’t do that, for the same reason I can’t use instruction manuals or listen when someone is giving me directions; because it means admitting that someone out there knows something I don’t.
