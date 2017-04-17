@@ -55,6 +55,8 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 ### Nonfiction
 
 * `Barry Schwartz` Why We Work (★★☆☆☆)
+* `Bruce Bueno De Mesquita, Alastair Smith`  The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics (★★★★★)
+* `Jeremy Clarkson` As I Was Saying... (★★★★☆)
 * `Joe Bageant` Deer Hunting with Jesus (★★★☆☆)
 * `Kurt Vonnegut` Cat's Cradle (★★★☆☆)
 * `Felicia Day` You're Never Weird on the Internet (Almost) (★★★★★)
@@ -111,7 +113,7 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm currently reading
 
-* `Jeremy Clarkson` As I Was Saying . . . (228/336)
+* `Cory Doctorow` Information Doesn't Want to Be Free (chapter 1/5)
 * `Pieter Hintjens` Culture & Empire: Digital Revolution (466/652)
 * `Mohit` Python Penetration Testing Essentials (52/178)
 * `Dan Brown` Digital Fortress (300/579)
