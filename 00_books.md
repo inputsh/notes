@@ -23,7 +23,7 @@ This file is the ultimate list of books that I have read, and that I'm reading c
 
 * 2015: 18/25
 * 2016: 22/20
-* 2017: 2/25
+* 2017: 3/25
 
 ## Books I have read
 
@@ -55,8 +55,12 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 ### Nonfiction
 
 * `Barry Schwartz` Why We Work (★★☆☆☆)
+<<<<<<< HEAD
 * `Bruce Bueno De Mesquita, Alastair Smith`  The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics (★★★★★)
 * `Jeremy Clarkson` As I Was Saying... (★★★★☆)
+=======
+* `Jeremy Clarkson` As I Was Saying... (The World According to Clarkson #6) (★★★★☆)
+>>>>>>> 45d9d973f096955cf8623c429d1b0ea4a94e865f
 * `Joe Bageant` Deer Hunting with Jesus (★★★☆☆)
 * `Kurt Vonnegut` Cat's Cradle (★★★☆☆)
 * `Felicia Day` You're Never Weird on the Internet (Almost) (★★★★★)
