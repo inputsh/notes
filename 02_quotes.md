@@ -29,6 +29,7 @@ This is the list of quotes where I find the inspiration that drives me forward.
 * **Dan Brown:** The only difference between you and God is that you have forgotten you are divine.
 * **Dante Alighieri:** The path to paradise begins in hell.
 * **Duane Michals:** Trust that little voice in your head that says "Wouldn't it be interesting if..." And then do it.
+* **Elon Musk:** Essentially, if everyone’s from planet Krypton, that’s great. But if only one of them is Superman and Superman also has the personality of Hitler, then we’ve got a problem.
 * **Frank Zappa:** If you end up with a boring miserable life because you listened to your mom, your dad, your teacher, your priest, or some guy on television telling you how to do your shit, then you deserve it.
 * **Friedrich Nietzsche:** In individuals, insanity is rare; but in groups, parties, nations, and epochs it is the rule.
 * **Henry Davis Thoreau:** What you get by achieving your goals is not as important as what you become by achieving them.
