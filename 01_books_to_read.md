@@ -2,23 +2,22 @@
 
 ## Books that I'm going to read next
 
-* `Bruce Bueno de Mesquita` The Dictator's Handbook
-* `Cory Doctorow` Information Doesn't Want to Be Free: Laws for the Internet Age
+* `Kim Zetter` Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon
+* `Ray Bradbury` Fahrenheit 451
 * `Ted Chiang` Stories of Your Life and Others
 * `Lee Harper` To Kill a Mockingbird
 * `Chris Hadfield` An Astronaut's Guide to Life on Earth
 * `Noam Chomsky` Understanding Power [media]
 * `Bruce Schneier` Data and Goliath [technology, surveillance]
-* `Michael Weiss, Hassan Hassan` ISIS: Inside the Army of Terror [terrorism, security]
-* `Neal Stephenson` Cryptonomicon
 * `Lawrence Lessig` Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity [open source, media]
 * `Andreas C. Mueller, Sarah Guido` Introduction to Machine Learning with Python [machine learning, programming]
+* `Michael Weiss, Hassan Hassan` ISIS: Inside the Army of Terror [terrorism, security]
+* `Aldous Huxley` Brave New World
 * `Sara Nović` Girl at War
 * `David Mitchell` Cloud Atlas [novel]
 * `Gabriella Coleman` Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous [technology, hacking]
-* `Marc Goodman` Future Crimes: Everything Is Connected, Everyone Is Vulnerable, and What We Can Do About It
-* `Simon Monk` The Maker's Guide to the Zombie Apocalypse [programming]
 * `Andrew Hodges` Alan Turing: The Enigma [biography, technology, history]
+* `Marc Goodman` Future Crimes: Everything Is Connected, Everyone Is Vulnerable, and What We Can Do About It
 * `Dave Maass` Pwning Tomorrow
 * `Neal Stephenson` Seveneves
 * `George Orwell` All Art is Propaganda: Critical Essays [media]
