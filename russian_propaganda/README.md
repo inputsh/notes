@@ -16,8 +16,9 @@ Information as a dangerous weapon:
 * [RIA Novosti](https://en.wikipedia.org/wiki/RIA_Novosti) - Reported in English until December 9th 2013, when Russian President Vladimir Putin signed its liquidation (that happened on April 1st 2014).
 * On the same day (December 9th 2013) RIA Novosti merges with the [Voice of Russia](https://en.wikipedia.org/wiki/Voice_of_Russia) to create Rossiya Segodnya.
 * [Rossiya Segodnya](https://en.wikipedia.org/wiki/Rossiya_Segodnya) (founded on December 9th 2013) is "wholly owned by the Government of Russia as a unitary enterprise<sup>1</sup>".
+* Started expanding into Baltic region in April 2014 under the name Baltnews, which was [discovered](https://en.rebaltica.lv/2017/04/sputniks-unknown-brother/) three years later.
 * Voice of Russia gets dissolved on November 9th 2014.
-* [Sputnik](https://en.wikipedia.org/wiki/Sputnik_(news_agency) launched as a subsidiary of Rossiya Segodnya on November 10th 2014.
+* [Sputnik](https://en.wikipedia.org/wiki/Sputnik_(news_agency)) launched as a subsidiary of Rossiya Segodnya on November 10th 2014.
 
 <sup>1</sup> Unitary enterprise: Government-owned corporation. Business entities have no ownership rights to the assets they use. Its profits go directly to the state.
 
@@ -28,3 +29,10 @@ According to paragraph 15(a) of Russia’s military doctrine, updated and approv
 Sputnik's modus operandi in Central Eastern Europe: select a small number of anti-establishment politicians and give them substantial coverage, while reporting little or nothing about the representatives of other parties or points of view.
 
 Example: Janusz Korwin-Mikke, Polish presidential candidate in 2015, referenced on Sputnik ~10 times, received 3% of the votes, while Pawel Kukiz got referenced three times, even though he got six times more votes.
+
+[This thread](https://news.ycombinator.com/item?id=14226670) gave some insights of what's happening in the Baltic states. Key points:
+
+* Russians don't feel the need to integrate with the local culture.
+* They only consume Russian-speaking media.
+* They see the reunification with Russia as the best choice.
+* To their little nations, it's seen as a case of fighting for the survival of their culture.
