@@ -7,29 +7,47 @@ If you're the copyright holder of any of these files and you want this content r
 ## Table of Content
 
 * [Le random quotes from the interwebz](#le-random-quotes-from-the-interwebz)
+	+ [Quotes in Bosnian/Serbian/Croatian](#quotes-in-bosnianserbiancroatian)
 * [Le tumblr quotes](#le-tumblr-quotes)
 * [George Carlin quotes](#george-carlin-quotes)
-* [What The Hell is St. Louis Thinking](#what-the-hell-is-st.-louis-thinking)
-* [Notes from Share This Book (2012)](#notes-from-share-this-book-2012)
+* [What The Hell is St. Louis Thinking](#what-the-hell-is-st-louis-thinking)
+* [Notes from **Share This Book (2012)**](#notes-from-share-this-book-2012)
+	+ [Some Intro Text](#some-intro-text)
+	+ [Decentralize The Internet (by Yazan Al-Saadi)](#decentralize-the-internet-by-yazan-al-saadi)
+	+ [Designing for Collaborative Consumption (by Michelle Thorne)](#designing-for-collaborative-consumption-by-michelle-thorne)
+	+ [Crowdsourced Constitution (by Lily Lunch)](#crowdsourced-constitution-by-lily-lunch)
+	+ [Report from Public Library (by Marcell Mars AKA Nenad Romić)](#report-from-public-library--by-marcell-mars-aka-nenad-romic)
+	+ [Advice for Living in this World (by Quinn Norton)](#advice-for-living-in-this-world-by-quinn-norton)
+	+ [Face to Facebook: Smiling in the Eternal Party (by Paolo Cirio and Alessandro Ludovico)](#face-to-facebook-smiling-in-the-eternal-party-by-paolo-cirio-and-alessandro-ludovico)
 * [Digital Vertigo (by Andrew Keen)](#digital-vertigo-by-andrew-keen)
 * [Content (by Cory Doctorow)](#content-by-cory-doctorow)
 * [Internet of Garbage (by Sarah Jeong)](#internet-of-garbage-by-sarah-jeong)
 * [Quotes from Aaron Swartz's blog](#quotes-from-aaron-swartzs-blog)
 * [The Filter Bubble (by Eli Parser)](#the-filter-bubble-by-eli-parser)
 * [Algorithms to Live By (by Brian Christian and Tom Griffiths)](#algorithms-to-live-by-by-brian-christian-and-tom-griffiths)
+* [Zen to Done (by Leo Babauta)](#zen-to-done-by-leo-babauta)
+* [Stealing the Network: How to Own the Box](#stealing-the-network-how-to-own-the-box)
+* [As I Was Saying... (by Jeremy Clarkson)](#as-i-was-saying-by-jeremy-clarkson)
+* [The Dictator's Handbook](#the-dictators-handbook)
 
 ## Le random quotes from the interwebz
 
 This is the list of quotes where I find the inspiration that drives me forward.
 
 * **Aaron Loeb:** The art of good headline writing and image selection in order to get someone to click and go to a website is usually called “clickbaiting,” but I think we should call it “bullshit curation.”
+* **Alan Kay:** Technology is anything that wasn’t around when you were born.
 * **Arnold H. Glasgow:** Success is not spontaneous combustion. You need to set yourself on fire.
+* **Arthur C. Clarke:** Any sufficiently advanced technology is equivalent to magic.
 * **Barry Schwartz:** But in addition to creating things, science creates concepts, ways of understanding the world and our place in it, that have an enormous effect on how we think and act. If we understand birth defects as acts of God, we pray. If we understand them as acts of chance, we grit our teeth and roll the dice. If we understand them as the product of prenatal neglect, we take better care of pregnant women.
 * **Brian Benchoff:** For every computer error, there are two human errors, and one of them is blaming the computer.
 * **Dan Brown:** The only difference between you and God is that you have forgotten you are divine.
 * **Dante Alighieri:** The path to paradise begins in hell.
 * **Duane Michals:** Trust that little voice in your head that says "Wouldn't it be interesting if..." And then do it.
+<<<<<<< Updated upstream
 * **Elon Musk:** Essentially, if everyone’s from planet Krypton, that’s great. But if only one of them is Superman and Superman also has the personality of Hitler, then we’ve got a problem.
+=======
+* **Elbert Hubbard:** One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
+>>>>>>> Stashed changes
 * **Frank Zappa:** If you end up with a boring miserable life because you listened to your mom, your dad, your teacher, your priest, or some guy on television telling you how to do your shit, then you deserve it.
 * **Friedrich Nietzsche:** In individuals, insanity is rare; but in groups, parties, nations, and epochs it is the rule.
 * **Henry Davis Thoreau:** What you get by achieving your goals is not as important as what you become by achieving them.
@@ -43,13 +61,16 @@ This is the list of quotes where I find the inspiration that drives me forward.
 * **Mark Victor Hansen:** Don't wait until everything is just right. It will never be perfect. There will always be challenges, obstacles and less than perfect conditions. So what. Get started now. With each step you take, you will grow stronger and stronger, more and more skilled, more and more self-confident and more and more successful.
 * **Mark Twain:** I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it.
 * **Mark Twain:** Never let your school interfere with your education.
+* **Martin Fowler:** Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 * **Michael Jordan:** I can accept failure, everyone fails at something. But I can't accept not trying.
 * **Muhammed Ali:** Don't count the days, make the days count.
+* **Mobutu Sese Seko** What is important here is cash. [A] leader needs money, gold and diamonds to run his hundred castles, feed his thousand woman, buy cars for the millions of boot-lickers under his heels, reinforce the loyal military forces and still have enough change left to deposit into his numbered Swiss accounts.
 * **Napoleon Hill:** Patience, persistence and perspiration make an unbeatable combination for success.
 * **Nick Gillespie:** Public debate, it seems, is no longer a means by which to search for truth, knowledge, and common ground, but only a venue for speech that expresses unthinking solidarity with whatever you already believe.
 * **Oscar Wilde:** Give a man mask and he'll tell you the truth.
 * **Quinn Norton:** Over time, all data approaches deleted, or public.
 * **Richard Jeni:** Honesty is the key to a relationship. If you can fake that, you're in.
+* **Rick Cook:** Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to build bigger and better idiots. So far, the universe is winning.
 * **Ser Tim Berners-Lee:** Aaron is dead. Wanderers in this crazy world, we have lost a mentor, a wise elder. Hackers for right, we are one down, we have lost one of our own. Nurturers, carers, listeners, feeders, parents all, we have lost a child. Let us all weep.
 * **Tim Urban:** The reality is that we’re whizzing down a very intense road to a very intense place, and no one knows what it’ll be like when we get there. A lot of people find it scary to think about, but I think it’s exciting. Because of when we happened to be born, instead of just living in a normal world like normal people, we’re living inside of a thriller movie. Some people take this information and decide to be like Elon, doing whatever they can to help the movie have a happy ending—and thank god they do. Because I’d rather just be a gawking member of the audience, watching the movie from the edge of my seat and rooting for the good guys.
 * **Will Smith:** You don't try to build a wall. You don't set out to build a wall. You don't say, "I'm gonna build the biggest baddest greatest wall, that's ever been build,", you don't start there. You say, "I'm gonna lay this brick, as perfectly as a brick can be laid," and you do that, every single day. And soon you have a wall.
@@ -131,12 +152,6 @@ Bunch of unknown authors from a book called [What The Hell is St. Louis Thinking
 * Shared objects should be easy to repair and amend. You shouldn't have to throw away your entire phone because it's scratched. Building modularity means fostering generativity.
 * Don't design for the dump. Don't design for the 20th century hyper-consumption. Design for things to last, to be shared, and to be part of the future, a future of collaborative consumption.
 
-### Here Comes OpenLeaks - How It Won't Be Wikileaks (by Maria Bustillos)
-
-* OpenLeaks provides only the platform for submissions, which will be encrypted and visible only to publishing partners designated by the source. OpenLeaks is pursuing a course of total neutrality. This is a sharp contrast to WikiLeaks. (**Daniel Domscheit-Berg**)
-* People are just copying and pasting the news agency stories because they don't have access to the original materials. (**Daniel Domscheit-Berg**)
-* It's this generation. They are networked, and they get perspectives from other people. They are citizens of the world. Like, the first ones. (**Daniel Domscheit-Berg**)
-
 ### Crowdsourced Constitution (by Lily Lunch)
 
 * From Cyber Yugoslavia to Iceland, online democracy is no longer just a fantasy. Plato must be turning in his grave.
@@ -170,12 +185,7 @@ The price the guests are unconsciously paying is that they are giving away their
 * Facebook, an endlessly cool place for so many people, becomes at the same time a goldmine for identity theft and dating - unfortunately, without the user's control. But that's the very nature of Facebook and social media in general.
 * We should be able to unveil how fragile a virtual identity given to a proprietary platform can be.
 
-### Synthetic Cinema (by Vladimir Todorović)
-
-* Synthetic Cinema exhibition doesn’t deal with moving images that are formed as a results of chemical reactions, but it does deal with works that are created by artificial means to replicate and comment on various processes that we find in nature.
-* In this cinema, we wouldn't have a need for linear storytelling, or to identify with the characters, or to enjoy natural landscapes; everything will be made synthetically, and the amount of information together with the formal qualities of moving images will all be reduced to their bare minimums.
-
-### Digital Vertigo (by Andrew Keen)
+## Digital Vertigo (by Andrew Keen)
 
 * We would have lived our lives differently if we had known they would one day be searchable. (@[alexia](https://twitter.com/alexia))
 * Rather than virtual or second life, social media is actually becoming life itself - the central and increasingly transparent stage of human existence, what Silicon Valley venture capitalists are now calling an "internet of people".
@@ -321,3 +331,33 @@ Talks that are too good to take some quotes out of them because they are perfect
 * Law #10:Technology is not a panacea.
 * _The full list (with explanations for what each rule means) can be found at
 	www.microsoft.com/technet/columns/security/10imlaws.asp._
+
+## As I Was Saying... (by Jeremy Clarkson)
+
+* ****By and large, the world seems to have sorted out most of its boundary disputes. Yes, there's still a bit of argy-bargy in the south Atlantic and the Palestinians would argue that their allotment is a bit meagre. But even in the former Yugoslavia new nations can play football against one another without having to dig a mass grave afterwards.
+* I'm constantly being hauled over the coals in the Daily Mail and in the Daily Star and the Mirror for all sorts of things. Calling Gordon Brown a one-eyed Scottish idiot. Saying public sector workers should be executed. Sparking fury with fox enthusiasts. I'm portrayed as an evil, racist, homophobic misogynist who goes through life stabbing baby badgers for fun. And I've worked out that it makes no difference. Taxi drivers still pick me up. People still watch my television shows. My books aren't remaindered for weeks; sometimes months. That's because the endless criticism is just a background hum.
+* Often when I am interviewing someone on Top Gear, the audience bursts into peals of laughter and I have no idea why, because I simply haven't heard what the person just said. My elder daughter, being a teenager, speaks at 5,000 words a minute, and while I know that some of those words are 'like' and 'I'm not even joking', the rest, I'm afraid, are just noises. It's like listening to a goose, most of the time.
+* This entire article: http://www.thesundaytimes.co.uk/sto/comment/columns/jeremyclarkson/article1387530.ece
+* You simply don’t know any more when you’ve passed from France into Belgium and the only way you know you’ve gone from Italy into Austria is because there’s no litter, or graffiti, or untidiness of any kind. It’s like you’ve gone from a Roman orgy into a Victorian lady’s underwear drawer.
+* I encountered a problem with this sort of thing recently while skiing with a charming Dutch family in the Alps. Keen to let them know that I paid attention to their ways and their culture, I described someone who had queue-barged us as a ‘swaffelaar’. It’s a word that has no equivalent in English because ‘swaffelen’ means ‘to bash one’s penis against the Taj Mahal’.
+* This is the great thing about small countries such as Norway. The chances are you were at school with the prime minister, and that you live next door to the chap in charge of transport. So if you run over a pothole on your way home, you can pop round and ask him to fix it. This means the politicians are truly accountable. They know that if they have taken all of your money, they had damn well better do a good job when it comes to spending it. Or you’re going to poke them in the eye at the supermarket next weekend.
+* I’ve never really bothered with cooking in the past because it would have meant using a recipe book. And as a man I can’t do that, for the same reason I can’t use instruction manuals or listen when someone is giving me directions; because it means admitting that someone out there knows something I don’t.
+
+## The Dictator's Handbook
+
+* Journalists, authors, and academics have endeavored to explain politics through storytelling. They’ll explore why this or that leader seized power, or how the population of a far-flung country came to revolt against their government, or why a specific policy enacted last year has reversed the fortunes of millions of lives. And in the explanations of these cases, a journalist or historian can usually tell us what happened, and to whom, and maybe even why. But beneath the particulars of the many political stories and histories we read are a few questions that seem to emerge time after time, some profound, some seemingly minor, but all nagging and enduring in the back of our minds: How do tyrants hold on to power for so long? For that matter, why is the tenure of successful democratic leaders so brief? How can countries with such misguided and corrupt economic policies survive for so long? Why are countries that are prone to natural disasters so often unprepared when they happen? And how can lands rich with natural resources at the same time support populations stricken with poverty?
+* Each explanation, each story, treats the errant leader and his or her faulty decision making as a one-off, one-of-a-kind situation. But there is nothing unique about political behavior.
+* After all, even if politics is nothing more than a game that leaders play, if only we learn the rules, it becomes a game we can win.
+* Knowing how and why things are as they are is a first, crucial step toward learning how to make them better.
+* The truth is, no two governments or organizations are exactly alike. No two democracies are alike. Indeed, they can be radically different one from the other and still qualify perfectly well as democracies. The more significant and observable differences in the behavior of governments and organizations are dependent on the absolute and relative size of the interchangeable, influential, and essential groups. The seemingly subtle differences between, say, France’s government and Britain’s, or Canada’s and the United States’s are not inconsequential. However, the variations in their policies are the product of the incentives leaders face as they contend with their particular mix of interchangeable, influential, and essential groups.
+* We must remember that labels like democracy or dictatorship are a convenience—but only a convenience.
+* [...] there are five basic rules leaders can use to succeed in any system:
+  1. **Keep your winning coalition as small as possible.** A small coalition allows a leader to rely on very few people to stay in power. Fewer essentials equals more control and contributes to more discretion over expenditures.
+  2. **Keep your nominal selectorate as large as possible.** Maintain a large selectorate of interchangeables and you can easily replace any troublemakers in your coalition, influentials and essentials alike. After all, a large selectorate permits a big supply of substitute supporters to put the essentials on notice that they should be loyal and well behaved or else face being replaced.
+  3. **Control the flow of revenue.** It’s always better for a ruler to determine who eats than it is to have a larger pie from which the people can feed themselves. The most effective cash flow for leaders is one that makes lots of people poor and redistributes money to keep select people—their supporters—wealthy.
+  4. **Pay your key supporters just enough to keep them loyal.** Remember, your backers would rather be you than be dependent on you. Your big advantage over them is that you know where the money is and they don’t. Give your coalition just enough so that they don’t shop around for someone to replace you and not a penny more.
+  5. **Don’t take money out of your supporter’s pockets to make the people’s lives better.** The flip side of rule 4 is not to be too cheap toward your coalition of supporters. If you’re good to the people at the expense of your coalition, it won’t be long until your “friends” will be gunning for you. Effective policy for the masses doesn’t necessarily produce loyalty among essentials, and it’s darn expensive to boot. Hungry people are not likely to have the energy to overthrow you, so don’t worry about them. Disappointed coalition members, in contrast, can defect, leaving you in deep trouble.
+* Even though [the democrats] generally provide a much higher standard of living for their citizens than do tyrants, democrats generally have shorter terms in office.
+* Dying leaders face almost as grave a problem. If essential backers know their leader is dying, then they also know that they need someone new to assure the flow of revenue into their pockets. That’s a good reason to keep terminal illnesses secret since a terminal ailment is bound to provoke an uprising, either within the ranks of the essential coalition or among outsiders who see an opportunity to step in and take control of the palace.
+* The sad truth is that if you want to come to power in an autocracy you are better off stealing medical records than you are devising fixes for your nation’s ills.
+* Good ideas that help the people are rarely the path to power in a dictatorship.
