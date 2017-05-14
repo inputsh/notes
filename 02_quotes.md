@@ -29,6 +29,7 @@ If you're the copyright holder of any of these files and you want this content r
 * [Stealing the Network: How to Own the Box](#stealing-the-network-how-to-own-the-box)
 * [As I Was Saying... (by Jeremy Clarkson)](#as-i-was-saying-by-jeremy-clarkson)
 * [The Dictator's Handbook](#the-dictators-handbook)
+* [Countdown to Zero Day (by Kim Zimmer)](#countdown-to-zero-day-by-kim-zimmer)
 
 ## Le random quotes from the interwebz
 
@@ -40,6 +41,7 @@ This is the list of quotes where I find the inspiration that drives me forward.
 * **Arthur C. Clarke:** Any sufficiently advanced technology is equivalent to magic.
 * **Barry Schwartz:** But in addition to creating things, science creates concepts, ways of understanding the world and our place in it, that have an enormous effect on how we think and act. If we understand birth defects as acts of God, we pray. If we understand them as acts of chance, we grit our teeth and roll the dice. If we understand them as the product of prenatal neglect, we take better care of pregnant women.
 * **Brian Benchoff:** For every computer error, there are two human errors, and one of them is blaming the computer.
+* **Chaouki Bekrar:** I'm just an actor. I want to talk about the movie.
 * **Dan Brown:** The only difference between you and God is that you have forgotten you are divine.
 * **Dante Alighieri:** The path to paradise begins in hell.
 * **Duane Michals:** Trust that little voice in your head that says "Wouldn't it be interesting if..." And then do it.
@@ -358,3 +360,20 @@ Talks that are too good to take some quotes out of them because they are perfect
 * Dying leaders face almost as grave a problem. If essential backers know their leader is dying, then they also know that they need someone new to assure the flow of revenue into their pockets. That’s a good reason to keep terminal illnesses secret since a terminal ailment is bound to provoke an uprising, either within the ranks of the essential coalition or among outsiders who see an opportunity to step in and take control of the palace.
 * The sad truth is that if you want to come to power in an autocracy you are better off stealing medical records than you are devising fixes for your nation’s ills.
 * Good ideas that help the people are rarely the path to power in a dictatorship.
+
+## Countdown to Zero Day (by Kim Zimmer)
+
+* Although more than 12 million viruses and other malicious files are captured each year, only about a dozen or so zero days are found among them.
+* The truth was, Stuxnet appealed to him [Liam O'Murchu] because it was a huge adrenaline rush of a puzzle—a virus far too complex to be merely a tool for espionage, and far too sophisticated to be the work of mere cybercriminals. He just had to figure it out.
+* Cryptographer Nate Lawson's comments dripped with disdain when he [wrote in a blog post](https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/) that Stuxnet's authors "should be embarassed at their amateur approach to hiding the payload" and their use of outmoded methods that criminal hackers had long since surpassed. "I really hope it wasn't written by the USA," he wrote, "because I'd like to think our elite cybearweapon developers at least know what Bulgarian teenagers did back in the early 90s."
+* A top-notch zero-day bug and exploit could sell for $50,000 or more on the criminal black market, even twice that amount on the closed-door gray market that sold zero-day exploits to government cyber armies and spies. Either the attacker had an unlimited supply of zero days at their disposal and didn't care if they lost a handful or more, or they were really desperate and had a really good reason to topload their malware with spreading power to make certain it reached its target. Chien and O'Murchu suspected that both might be true.
+
+> Over the years, malware had gone through a gradual evolution. In the early days, the motivations of malware writers remained pretty much the same. Though some programs were more disruptive than others, the primary goal of virus writers in the 1990s was to achieve glory and fame, and a typical virus payload included shout-outs to the hacker's slacker friends. Things changed as e-commerce took hold and hacking grew into a criminal enterprise. The goal wasn't to gain attention anymore but to remain stealthy in a system for as long as possible to steal credit card numbers and bank account credentials. More recently, hacking had evolved into a high-stakes espionage game where nation-state spies drilled deep into networks to remain there for months or years while siletly siphoning national secrets and other senstive data.
+
+> But Stuxnet went far beyond any of these. It wasn't an evolution in malware, but a revolution. Everything Falliere and his colleagues had examined before, even the biggest threats that targeted credit card processors and Defense Department secrets, seemed minor in comparison. Stuxnet thrust them into an entirely new battlefield where the stakes were much higher than anything they had dealt with before.
+
+* Each time engineers would leave [Joe Weiss'] conference fired up with ideas about improving the security of their networks, they would run up against executives back home who balked at the cost of re-architecting and securing the the systems. Why spend money on security, they argued, when none of their competitors were doing it and no one was attacking them?
+* They all knew that Stuxnet was the job of a lifetime. "We understood this is the biggest story in malware ever," [Ralph] Langner recalls. "It was absolutely fantastic work. It was the best work that I have ever done and I'm sure I can't do any better."
+* Ralph Langner's assertion that Stuxnet was a precisiou weapon aimed at Iran's nuclear program must have caused a lot of consternation and panic in the halls of the White House and the Pentagon, as a plot that had been meticulously planned and executed over a number of years was slowly unraveling before their eyes.
+* You couldn't bomb a plant you don't know about, but you could possibly cyberbomb it. If Iran had other secret enrichment plants distributed throughout the country that used the same equipment and configuration as Natanz, a digital weapon planted in the computers of the contractors who serviced them all could spread from known facilities to the unknown ones.
+* The problem with using a cybearweapon, says one former CIA agent, is that "once it's out there, it's like using your stealth figher for the first time—you've rung that bell and can't pretend that the stealth figther doesn't exist anymore. So the question is, which air battle do you really want to use that stealth fighter for?"
