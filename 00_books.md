@@ -23,7 +23,7 @@ This file is the ultimate list of books that I have read, and that I'm reading c
 
 * 2015: 18/25
 * 2016: 22/20
-* 2017: 5/25
+* 2017: 7/25
 
 ## Books I have read
 
@@ -38,6 +38,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 * `Eli Parser` The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think (★★★★★)
 * `Ivo Quartiroli` Facebook Logout: Experiences and Reasons to Leave it (★★☆☆☆)
 * `Jason Hibbets` The foundations for an open source city (★★★★★)
+* `Kim Zetter` Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon (★★★★★)
 * `Peter A. Bornstein` 2030 - Will Computers Become Human? (★★★☆☆)
 * `Sarah Jeong` The Internet of Garbage (★★★☆☆)
 * `Sylvie Devilette` Handbook For Bloggers And Cyber Dissidents (★★★☆☆)
@@ -73,6 +74,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 * `George R.R. Martin` The Armageddon Rag (★★★★★)
 * `Isaac Asimov` The Last Question (★★★★★)
 * `J.K. Rowling` Harry Potter (the whole series because I'm to lazy to list all of them separately) (★★★★☆)
+* `Sam Esmail` MR. ROBOT: Red Wheelbarrow: (eps1.91_redwheelbarr0w.txt) (★★★☆☆)
 
 ### Science Fiction
 
@@ -114,6 +116,7 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm currently reading
 
+* `Tim Urban` The Elon Musk Blog Series: Wait But Why (61%)
 * `Pieter Hintjens` Culture & Empire: Digital Revolution (466/652)
 * `Mohit` Python Penetration Testing Essentials (52/178)
 * `Dan Brown` Digital Fortress (300/579)
