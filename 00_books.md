@@ -23,7 +23,7 @@ This file is the ultimate list of books that I have read, and that I'm reading c
 
 * 2015: 18/25
 * 2016: 22/20
-* 2017: 7/25
+* 2017: 8/25
 
 ## Books I have read
 
@@ -42,6 +42,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 * `Peter A. Bornstein` 2030 - Will Computers Become Human? (★★★☆☆)
 * `Sarah Jeong` The Internet of Garbage (★★★☆☆)
 * `Sylvie Devilette` Handbook For Bloggers And Cyber Dissidents (★★★☆☆)
+* `Tim Urban` The Elon Musk Blog Series: Wait But Why (★★★★★)
 * `Tobias Klein` A Bug Hunter's Diary (★★★★☆)
 * `Uday Veer Singh` Immune Web (★☆☆☆☆)
 * `Vincent Jousse` Vim for Humans (★☆☆☆☆)
@@ -116,7 +117,7 @@ Don't judge me, I need something light to read sometimes.
 
 ## Books I'm currently reading
 
-* `Tim Urban` The Elon Musk Blog Series: Wait But Why (61%)
+* `Christof Paar, Jan Pelzl` Understanding Cryptography: A Textbook for Students and Practitioners (95/382)
 * `Pieter Hintjens` Culture & Empire: Digital Revolution (466/652)
 * `Mohit` Python Penetration Testing Essentials (52/178)
 * `Dan Brown` Digital Fortress (300/579)
