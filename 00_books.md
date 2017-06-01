@@ -23,17 +23,18 @@ This file is the ultimate list of books that I have read, and that I'm reading c
 
 * 2015: 18/25
 * 2016: 22/20
-* 2017: 8/25
+* 2017: 11/25
 
 ## Books I have read
 
-Of course, this is in no way the list of every book I have ever read. Just the list of books that I remember reading and the books that I have read since I started keeping this list.
+Of course, this is in no way the list of every book I have ever read. Just the list of books that I remember reading and the books that I have read since I've started keeping this list.
 
 ### Technology
 
 * `Aaron Swartz` The Boy Who Could Change The World: The Writings of Aaron Swartz (★★★★☆)
 * `Andrew Keen` Digital Vertigo: How Today's Online Social Revolution is Dividing, Diminishing and Disorienting Us (★★★★☆)
 * `Bryan Lunduke` Linux is Badass (★★★☆☆)
+* `Carlo Silkie` Information Security for Journalists (★★★☆☆)
 * `Cory Doctorow` Content (★★★★☆)
 * `Eli Parser` The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think (★★★★★)
 * `Ivo Quartiroli` Facebook Logout: Experiences and Reasons to Leave it (★★☆☆☆)
@@ -42,6 +43,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 * `Peter A. Bornstein` 2030 - Will Computers Become Human? (★★★☆☆)
 * `Sarah Jeong` The Internet of Garbage (★★★☆☆)
 * `Sylvie Devilette` Handbook For Bloggers And Cyber Dissidents (★★★☆☆)
+* `Thomas M. Chen` Cyberterrorism After Stuxnet (★★★★☆)
 * `Tim Urban` The Elon Musk Blog Series: Wait But Why (★★★★★)
 * `Tobias Klein` A Bug Hunter's Diary (★★★★☆)
 * `Uday Veer Singh` Immune Web (★☆☆☆☆)
@@ -75,6 +77,7 @@ Of course, this is in no way the list of every book I have ever read. Just the l
 * `George R.R. Martin` The Armageddon Rag (★★★★★)
 * `Isaac Asimov` The Last Question (★★★★★)
 * `J.K. Rowling` Harry Potter (the whole series because I'm to lazy to list all of them separately) (★★★★☆)
+* `Ray Bradbury` Fahrenheit 451 (★★★★★)
 * `Sam Esmail` MR. ROBOT: Red Wheelbarrow: (eps1.91_redwheelbarr0w.txt) (★★★☆☆)
 
 ### Science Fiction

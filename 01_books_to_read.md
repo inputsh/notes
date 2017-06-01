@@ -2,8 +2,6 @@
 
 ## Books that I'm going to read next
 
-* `Christof Paar` Understanding Cryptography: A Textbook For Students And Practitioners
-* `Ray Bradbury` Fahrenheit 451
 * `Ted Chiang` Stories of Your Life and Others
 * `Lee Harper` To Kill a Mockingbird
 * `Chris Hadfield` An Astronaut's Guide to Life on Earth
