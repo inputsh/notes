@@ -12,7 +12,7 @@ Format: ``* `author_name` book_title (rating) [[isbn13](link_to_goodreads)]``
 
 * 2015: 17/25
 * 2016: 22/20
-* 2017: 14/25
+* 2017: 15/25
 
 ## Books I have read
 
@@ -24,17 +24,17 @@ Format: ``* `author_name` book_title (rating) [[isbn13](link_to_goodreads)]``
 * `J.K. Rowling` Harry Potter and the Goblet of Fire (★★★★☆) [[9780439139601](https://www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire)]
 * `George R.R. Martin` A Clash of Kings (★★★★★) [[9780553381696](https://www.goodreads.com/book/show/10572.A_Clash_of_Kings)]
 * `J.K. Rowling` Harry Potter and the Half-Blood Prince (★★★★☆) [[9780439785969](https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince)]
-* `Albert Camus` The Stranger (★★★★★) [[None](https://www.goodreads.com/book/show/49552.The_Stranger)]
 * `Donato Carrisi` The Whisperer (★★★☆☆) [[9780316194723](https://www.goodreads.com/book/show/11038479-the-whisperer)]
-* `George R.R. Martin` A Game of Thrones (★★★★☆) [[9780553588484](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)]
+* `Albert Camus` The Stranger (★★★★★) [[None](https://www.goodreads.com/book/show/49552.The_Stranger)]
 * `Veronica Roth` Divergent (★★★★★) [[9780062024039](https://www.goodreads.com/book/show/13335037-divergent)]
 * `Daniel Kahneman` Thinking, Fast and Slow (★★★★☆) [[9780374275631](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)]
+* `George R.R. Martin` A Game of Thrones (★★★★☆) [[9780553588484](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)]
 * `Edwin C. Bliss` Getting Things Done (★★★★☆) [[9780553142334](https://www.goodreads.com/book/show/26562.Getting_Things_Done)]
-* `Marko Šelić` Napet šou (★★★★★) [[9788652116652](https://www.goodreads.com/book/show/23295356-napet-ou)]
 * `Daniel Abraham` A Game of Thrones: Comic Book, Issue 1 (★★★★☆) [[9780345536150](https://www.goodreads.com/book/show/18337259-a-game-of-thrones)]
+* `George R.R. Martin` The Armageddon Rag (★★★★★) [[9780553383072](https://www.goodreads.com/book/show/67948.The_Armageddon_Rag)]
+* `Marko Šelić` Napet šou (★★★★★) [[9788652116652](https://www.goodreads.com/book/show/23295356-napet-ou)]
 * `George R.R. Martin` Pjesma sudnjeg dana (★★★★★) [[9789533165547](https://www.goodreads.com/book/show/16065831-pjesma-sudnjeg-dana)]
 * `John Green` The Fault in Our Stars (★★★★☆) [[9780525478812](https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars)]
-* `George R.R. Martin` The Armageddon Rag (★★★★★) [[9780553383072](https://www.goodreads.com/book/show/67948.The_Armageddon_Rag)]
 * `Sylvie Devilette` Handbook For Bloggers And Cyber Dissidents (★★☆☆☆) [[9782915536362](https://www.goodreads.com/book/show/1998480.Handbook_For_Bloggers_And_Cyber_Dissidents)]
 * `Henry Goldkamp` What The Hell is Saint Louis Thinking? (★★★★★) [[None](https://www.goodreads.com/book/show/24108885-what-the-hell-is-saint-louis-thinking)]
 * `Peter Bornstein` 2030 - Will Computers Become Human? (★★☆☆☆) [[None](https://www.goodreads.com/book/show/23962637-2030---will-computers-become-human)]
@@ -54,16 +54,16 @@ Format: ``* `author_name` book_title (rating) [[isbn13](link_to_goodreads)]``
 * `Atka Reid` Goodbye Sarajevo (★★★★★) [[9781408814567](https://www.goodreads.com/book/show/11170615-goodbye-sarajevo)]
 * `Uday V Singh` Immune Web (★☆☆☆☆) [[None](https://www.goodreads.com/book/show/28225451-immune-web)]
 * `Cory Doctorow` Content: Selected Essays on Technology, Creativity, Copyright, and the Future of the Future (★★★★☆) [[9781892391810](https://www.goodreads.com/book/show/3345583-content)]
-* `Eli Pariser` The Filter Bubble: What the Internet is Hiding From You (★★★★★) [[9781594203008](https://www.goodreads.com/book/show/10596103-the-filter-bubble)]
-* `Atka Reid` Goodbye Sarajevo: A True Story of Courage, Love and Survival. Atka Reid, Hana Schofield (★★★★★) [[9781408812747](https://www.goodreads.com/book/show/11527308-goodbye-sarajevo)]
-* `Tobias Klein` A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security (★★★★☆) [[9781593273859](https://www.goodreads.com/book/show/12746081-a-bug-hunter-s-diary)]
-* `Douglas Adams` The Restaurant at the End of the Universe (★★★★☆) [[9780345418920](https://www.goodreads.com/book/show/8695.The_Restaurant_at_the_End_of_the_Universe)]
 * `Nick Spalding` Life... With No Breaks (★★★☆☆) [[1230000003518](https://www.goodreads.com/book/show/8298752-life-with-no-breaks)]
 * `Sarah Jeong` The Internet of Garbage (★★★☆☆) [[9781508018865](https://www.goodreads.com/book/show/25910719-the-internet-of-garbage)]
-* `Leo Babauta` Zen to Done (★★★★☆) [[None](https://www.goodreads.com/book/show/2372284.Zen_to_Done)]
-* `Craig A. Falconer` Funscreen (★★☆☆☆) [[None](https://www.goodreads.com/book/show/18375127-funscreen)]
-* `Vincent Jousse` Vim for Humans (★☆☆☆☆) [[None](https://www.goodreads.com/book/show/32710980-vim-for-humans)]
+* `Tobias Klein` A Bug Hunter's Diary: A Guided Tour Through the Wilds of Software Security (★★★★☆) [[9781593273859](https://www.goodreads.com/book/show/12746081-a-bug-hunter-s-diary)]
 * `George Orwell` 1984 (★★★★☆) [[9780451524935](https://www.goodreads.com/book/show/5470.1984)]
+* `Atka Reid` Goodbye Sarajevo: A True Story of Courage, Love and Survival. Atka Reid, Hana Schofield (★★★★★) [[9781408812747](https://www.goodreads.com/book/show/11527308-goodbye-sarajevo)]
+* `Douglas Adams` The Restaurant at the End of the Universe (★★★★☆) [[9780345418920](https://www.goodreads.com/book/show/8695.The_Restaurant_at_the_End_of_the_Universe)]
+* `Leo Babauta` Zen to Done (★★★★☆) [[None](https://www.goodreads.com/book/show/2372284.Zen_to_Done)]
+* `Vincent Jousse` Vim for Humans (★☆☆☆☆) [[None](https://www.goodreads.com/book/show/32710980-vim-for-humans)]
+* `Craig A. Falconer` Funscreen (★★☆☆☆) [[None](https://www.goodreads.com/book/show/18375127-funscreen)]
+* `Eli Pariser` The Filter Bubble: What the Internet is Hiding From You (★★★★★) [[9781594203008](https://www.goodreads.com/book/show/10596103-the-filter-bubble)]
 * `Douglas Adams` The Hitchhiker's Guide to the Galaxy (★★★★★) [[9780345391803](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy)]
 * `Aaron Swartz` The Boy Who Could Change the World: The Writings of Aaron Swartz (★★★★☆) [[9781620970669](https://www.goodreads.com/book/show/23258925-the-boy-who-could-change-the-world)]
 * `Njuz` Prava istorija sveta (★★★★★) [[9788652121175](https://www.goodreads.com/book/show/28397292-prava-istorija-sveta)]
@@ -90,3 +90,4 @@ Format: ``* `author_name` book_title (rating) [[isbn13](link_to_goodreads)]``
 * `Thomas M. Chen` Cyberterrorism After Stuxnet (★★★★☆) [[None](https://www.goodreads.com/book/show/28848315-cyberterrorism-after-stuxnet)]
 * `Ray Bradbury` Fahrenheit 451 (★★★★★) [[9781451673319](https://www.goodreads.com/book/show/13259307-fahrenheit-451)]
 * `Ted Chiang` Stories of Your Life and Others (★★★★★) [[9780330426640](https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others)]
+* `Randall Munroe` What If?: Serious Scientific Answers to Absurd Hypothetical Questions (★★★★☆) [[9780544272996](https://www.goodreads.com/book/show/21413662-what-if)]
